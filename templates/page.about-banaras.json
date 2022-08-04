@@ -1,0 +1,131 @@
+{
+  "sections": {
+    "162811634384e849d0": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/01222.jpg",
+        "scale": 2,
+        "page_height": 300,
+        "title": "About Banaras",
+        "subheading": "",
+        "button_text": "",
+        "link": "",
+        "overlay_opacity": 80,
+        "text_color": "#ffffff",
+        "button_text_color": "#ffffff",
+        "button_color": "#000000",
+        "background": "rgba(0,0,0,0)",
+        "caption_horizontal": 50,
+        "caption_vertical": 50,
+        "text_align": "center",
+        "section_padding": "bottom"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_size": "thin",
+        "sidebar_positon": "left"
+      }
+    },
+    "1642237902565a92c1": {
+      "type": "image-with-text",
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/Banaras1-min.jpg",
+        "layout": "left",
+        "image_width": "50%",
+        "text_align": "left",
+        "text_position": "center",
+        "title": "About Banaras text",
+        "text": "<p>From opulent bride and groom wedding outfits to an offerings to God or saints, banarasi silk weaving is an exemplary illustration of intricate indian textile culture. The brocades of banaras have far outreach into the entire world.<\/p>",
+        "link": "",
+        "button": "",
+        "color_scheme": "none",
+        "section_padding": "both"
+      }
+    },
+    "16422379865a8b82a4": {
+      "type": "image-with-text",
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/Banaras1-min.jpg",
+        "layout": "right",
+        "image_width": "50%",
+        "text_align": "left",
+        "text_position": "center",
+        "title": "Image with text",
+        "text": "<p>It is in the Banarasi brocade that we find the finest, most detailed rendering of flowers, birds, animals, human figures, geometric motifs and even the Persian and Nagari scripts. These fabrics are then transformed into furnishings, clothes, accessories as well as votive offerings to gods, goddesses and saints in Hindu and Buddhist temples and mosques. Fashioned most often in silk and embellished with extra patterning threads of silver and gold, these are expensive fabrics mainly used by the wealthy elite.<\/p>",
+        "link": "",
+        "button": "",
+        "color_scheme": "none",
+        "section_padding": "both"
+      }
+    },
+    "16422380086e506831": {
+      "type": "image-with-text",
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/Banaras1-min.jpg",
+        "layout": "left",
+        "image_width": "50%",
+        "text_align": "left",
+        "text_position": "center",
+        "title": "Image with text",
+        "text": "<p>Pair text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "link": "",
+        "button": "",
+        "color_scheme": "none",
+        "section_padding": "both"
+      }
+    },
+    "1642238023605fc666": {
+      "type": "image-with-text",
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/Banaras1-min.jpg",
+        "layout": "right",
+        "image_width": "50%",
+        "text_align": "left",
+        "text_position": "center",
+        "title": "Image with text",
+        "text": "<p>Born from a very laborious form of handweaving called the kadhua weaving are the brocades of banaras which are characterized by an embossed or dimensional appearance and feel achieved by the insertion of extra patterning threads into the base warp and weft. This painstaking technique has been passed down from generations to the banarasi weavers and forms a part of their legacy. The weaving is capable of rendering the representation of motifs in such fine detail that it almost looks as if the fabrics have been embroidered on the loom.<\/p>",
+        "link": "",
+        "button": "",
+        "color_scheme": "none",
+        "section_padding": "both"
+      }
+    },
+    "16422382363bc1c534": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/01222.jpg",
+        "scale": 0,
+        "page_height": 200,
+        "title": "",
+        "subheading": "<p>Older than history, older than tradition, older even legend and looks twice as old as all of them put together.<br\/><br\/><em><strong>Mark Twain on The city of Varanasi<\/strong><\/em><\/p>",
+        "button_text": "",
+        "link": "",
+        "overlay_opacity": 90,
+        "text_color": "#262626",
+        "button_text_color": "#262626",
+        "button_color": "#000000",
+        "background": "#ffffff",
+        "caption_horizontal": 50,
+        "caption_vertical": 50,
+        "text_align": "center",
+        "section_padding": "both"
+      }
+    }
+  },
+  "order": [
+    "162811634384e849d0",
+    "main",
+    "1642237902565a92c1",
+    "16422379865a8b82a4",
+    "16422380086e506831",
+    "1642238023605fc666",
+    "16422382363bc1c534"
+  ]
+}

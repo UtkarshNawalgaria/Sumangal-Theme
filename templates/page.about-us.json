@@ -1,0 +1,146 @@
+{
+  "sections": {
+    "162811634384e849d0": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/01222.jpg",
+        "scale": 2,
+        "page_height": 300,
+        "title": "About Us",
+        "use_h1": true,
+        "subheading": "",
+        "button_text": "",
+        "link": "",
+        "overlay_opacity": 80,
+        "text_color": "#fefefe",
+        "button_text_color": "#ffffff",
+        "button_color": "#000000",
+        "background": "rgba(0,0,0,0)",
+        "caption_horizontal": 50,
+        "caption_vertical": 50,
+        "text_align": "center",
+        "section_padding": "bottom"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_size": "thin",
+        "sidebar_positon": "left"
+      }
+    },
+    "1642236512d8565001": {
+      "type": "rich-text",
+      "blocks": {
+        "164223651274371fd9-0": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "rich_text": "<p>Sumangal is more than fifty decades-old endowment in the holy city of Ganga. It is not only a retail shop but a home which encourages to keep alive the ancient craft of Indian weaving and handloom art. It is recognized to design all types of Banarasi sarees, which includes Organza (Kora) with zari and silk, pure silk (Katan), Shattir and Georgette with the latest designs of zari, emeralds, motifs, and many more.<br\/><br\/>There are 6 outlets of Sumangal in the city itself and soon we are going to mark our physical presence in other cities too. To walk with the time and to fill the gap of geographical distance we have come to the online platform to let the world aware with the traditional weaving and handloom work. We aim to deliver a pinch of Banarasi tradition in every household.<br\/><br\/><br\/>Nowadays, Banarasi sarees are in demand and hangs in the most fashionable attire clad by the woman in special occasions and ceremonies. Hence, Sumangal offers a range of ethnic and traditional wear to all the beautiful ladies.<br\/><br\/>Sumangal Ekam’s e-commerce shopping portal has made your banarasi silk saree online search easier. Now you can go through magnificent collection of banarasi silk saree online in the vast abundance of Sumangal Ekam for a gorgeous original banarasi saree, contemporary banarasi cotton silk saree and luxurious collection of banarasi organza sarees in myriad of colors and designs. “Sumangal Ekam” has made a remarkable network not only in India but has crossed the barriers spreading its essence internationally too connecting to our happy customers in UAE, USA, UK, Canada, Australia,Mauritius & Singapore. The team feels grateful to receive such massive support & affection towards the brand and we assure to delight you further in future.<\/p>",
+            "center": true,
+            "block_size": 5
+          }
+        }
+      },
+      "block_order": [
+        "164223651274371fd9-0"
+      ],
+      "settings": {
+        "title": "Welcome to Sumangal Banaras",
+        "color_scheme": "none",
+        "section_padding": "both"
+      }
+    },
+    "1642236835b67a2bff": {
+      "type": "image-with-text",
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/6954.jpg",
+        "layout": "left",
+        "image_width": "50%",
+        "text_align": "left",
+        "text_position": "center",
+        "title": "About Our Company",
+        "text": "<p>Pair text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<br\/><br\/>Pair text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<br\/><br\/>Pair text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<br\/><\/p>",
+        "link": "",
+        "button": "",
+        "color_scheme": "none",
+        "section_padding": "both"
+      }
+    },
+    "1642237116920bae3b": {
+      "type": "testimonials",
+      "blocks": {
+        "1642237116a6e01108-0": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Authentic Banarasi Collection",
+            "content": "<p>This is a huge handloom house with excellent quality and lots of variety. Authentic banarasi collection and courteous management. Thank you my experience has been very nice<\/p>",
+            "author": "Puneet patel"
+          }
+        },
+        "1642237116a6e01108-1": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Finest shopping destination for traditional wear",
+            "content": "<p>One of the finest shopping destination for traditional and ethnic wear from the holy city of varanasi<\/p>",
+            "author": "Mukund Yadav"
+          }
+        },
+        "1642237116a6e01108-2": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Beautiful banarasi katan silk dupattas and sarees",
+            "content": "<p>If you are in benaras and want to buy banarasi handlooms but are unsure about the prices for the quality, you have got to visit this place. We bought beautiful banarasi katan silk dupattas and sarees<\/p>",
+            "author": "N J"
+          }
+        },
+        "ecd9daca-ddfe-417c-ab48-7ab67ef7e350": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Finest shopping destination for traditional wear",
+            "content": "<p>If you are in benaras and want to buy banarasi handlooms but are unsure about the prices for the quality, you have got to visit this place. We bought beautiful banarasi katan silk dupattas and sarees<\/p>",
+            "author": "Author"
+          }
+        },
+        "444bced6-13a6-4358-a6a2-dfb75714d729": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Authentic Banarasi Collection",
+            "content": "<p>If you are in benaras and want to buy banarasi handlooms but are unsure about the prices for the quality, you have got to visit this place. We bought beautiful banarasi katan silk dupattas and sarees<\/p>",
+            "author": "Author"
+          }
+        },
+        "70f184a4-7076-491d-a24d-f538704ae67c": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Beautiful banarasi katan silk dupattas and sarees",
+            "content": "<p>If you are in benaras and want to buy banarasi handlooms but are unsure about the prices for the quality, you have got to visit this place. We bought beautiful banarasi katan silk dupattas and sarees<\/p>",
+            "author": "Author"
+          }
+        }
+      },
+      "block_order": [
+        "1642237116a6e01108-0",
+        "1642237116a6e01108-1",
+        "1642237116a6e01108-2",
+        "ecd9daca-ddfe-417c-ab48-7ab67ef7e350",
+        "444bced6-13a6-4358-a6a2-dfb75714d729",
+        "70f184a4-7076-491d-a24d-f538704ae67c"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "color_scheme": "cs2",
+        "section_padding": "both"
+      }
+    }
+  },
+  "order": [
+    "162811634384e849d0",
+    "main",
+    "1642236512d8565001",
+    "1642236835b67a2bff",
+    "1642237116920bae3b"
+  ]
+}

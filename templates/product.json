@@ -1,0 +1,117 @@
+{
+  "sections": {
+    "1656232130b7192c2c": {
+      "type": "breadcrumbs",
+      "settings": {
+        "text_alignment": "left",
+        "section_padding": "both"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "product_info": {
+          "type": "product_info",
+          "settings": {
+          }
+        },
+        "product_form": {
+          "type": "product_form",
+          "settings": {
+            "back_in_stock": true,
+            "back_in_stock_text": "<p>Email me when this is available<\/p>"
+          }
+        },
+        "shortcode_popup1": {
+          "type": "shortcode_popup",
+          "settings": {
+            "popup_label": "Size",
+            "shortcode_name": "size_chart"
+          }
+        },
+        "f04dd25b-23f6-4d94-ae9d-3db985556d21": {
+          "type": "tab_content",
+          "settings": {
+            "tab_heading": "Shipping Policy",
+            "page": "",
+            "richtext": "<p>Shipping is free for all domestic order and payable for all International Orders.<\/p><p><strong>Note -<\/strong> Shipping charges are calculated basis subtotal amount on cart.<\/p><p><a href=\"\/pages\/delivery-and-shipping-policy\" target=\"_blank\" title=\"Shipping Policy\">Shipping Policy<\/a><\/p>"
+          }
+        },
+        "eeffc243-5c5f-4a6a-895f-b70625f9cda7": {
+          "type": "tab_content",
+          "settings": {
+            "tab_heading": "Return & Refund Policy",
+            "page": "",
+            "richtext": "<p>1. Once your order is delivered, you can raise a return or refund from your account.<\/p><p>2. You will be able to raise a return for your product within <strong>5 days<\/strong> of the product being delivered to you.<\/p><p>3. In case of return, refund will be initiated to your source of payment, within <strong>3-5<\/strong> working days after the item has been picked up.<\/p><p><a href=\"\/pages\/returns-and-cancellation\" target=\"_blank\" title=\"Returns And Cancellation\">Return Policy<\/a><\/p>"
+          }
+        },
+        "ba70645f-ac63-469a-89f7-12f5e19ec4f0": {
+          "type": "tab_content",
+          "settings": {
+            "tab_heading": "Cancellation Policy",
+            "page": "",
+            "richtext": "<p>1. The order can be cancelled within 24hrs of placing the order and the customer has not opted for any customization of the product.<\/p><p>2. A refund equivalent to the purchase price less banking charges would be refunded to the given bank account.<\/p><p>3. The refund might take 3-5 days after the refund is initiated depending on the bank<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "product_info",
+        "product_form",
+        "shortcode_popup1",
+        "f04dd25b-23f6-4d94-ae9d-3db985556d21",
+        "eeffc243-5c5f-4a6a-895f-b70625f9cda7",
+        "ba70645f-ac63-469a-89f7-12f5e19ec4f0"
+      ],
+      "settings": {
+        "click_to_enlarge": true,
+        "image_section_size": "medium",
+        "image_options": "static",
+        "thumbnail_position": "bottom",
+        "thumbs_to_show": 4,
+        "slide_controls": "arrows",
+        "enable_video_looping": false,
+        "description_background": "",
+        "show_social_share": true,
+        "product_description_position": "below",
+        "lower_description": "small",
+        "lower_description_background": ""
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "YOU MAY ALSO LIKE",
+        "items_shown": 4
+      }
+    },
+    "16457225444ab7a400": {
+      "type": "apps",
+      "blocks": {
+        "e0c20b2c-ced4-40ef-ba55-51d328390e34": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "52e0384a-4425-4d64-a5f5-62f8dc41d651": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "e0c20b2c-ced4-40ef-ba55-51d328390e34",
+        "52e0384a-4425-4d64-a5f5-62f8dc41d651"
+      ],
+      "settings": {
+        "full_width": false,
+        "section_padding": "both"
+      }
+    }
+  },
+  "order": [
+    "1656232130b7192c2c",
+    "main",
+    "product-recommendations",
+    "16457225444ab7a400"
+  ]
+}

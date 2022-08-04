@@ -1,0 +1,17 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "text": "",
+        "text_align": "center",
+        "blog_layout_grid": true,
+        "post_tags": true,
+        "show_author": false
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

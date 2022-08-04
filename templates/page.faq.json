@@ -1,0 +1,148 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_size": "thin",
+        "sidebar_positon": "left"
+      }
+    },
+    "1642234644b9fce853": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/01222.jpg",
+        "scale": 2,
+        "page_height": 300,
+        "title": "FAQ Page",
+        "subheading": "",
+        "button_text": "Button",
+        "link": "",
+        "overlay_opacity": 80,
+        "text_color": "#ffffff",
+        "button_text_color": "#ffffff",
+        "button_color": "#000000",
+        "background": "rgba(0,0,0,0)",
+        "caption_horizontal": 50,
+        "caption_vertical": 50,
+        "text_align": "center",
+        "section_padding": "both"
+      }
+    },
+    "accordion": {
+      "type": "accordion",
+      "blocks": {
+        "accordion-0": {
+          "type": "panel",
+          "settings": {
+            "heading": "How can I know more about my saree\/fabric?",
+            "content": "<p>If you would like to know about the fabric\/weave\/pattern of a saree in detail, please go through the product description on our website. You can also get in touch with us if you would like to know more, through the following channels:<br\/><br\/><br\/>Email us on sales@sumangalekam.inCall\/SMS\/WhatsApp on +919167449295Direct Message us on Facebook or Instagram<br\/><br\/><br\/>We will try to respond to your query as promptly as we can.<\/p>"
+          }
+        },
+        "accordion-1": {
+          "type": "panel",
+          "settings": {
+            "heading": "How does the saree look in real?",
+            "content": "<p>Like the peacock’s feathers, silk fiber also has a very unique luster due to its physical and chemical structures which enhances reflection of light. The photographs on the website, shot by the best cameras, are taken outdoors in natural daylight and posted without any editing to give the most accurate look.<\/p><p>If you have any doubts, please feel free to request us for additional photos in indoor lights. However for indoor pictures, multiple factors such as angle of photograph, type of light (white, yellow or natural), composition of the fabric effect the colours as captured in the photographs, which may occasionally result in minor variations.<\/p>"
+          }
+        },
+        "accordion-2": {
+          "type": "panel",
+          "settings": {
+            "heading": "How do I take care of my saree?",
+            "content": "<p>We recommend that you dry clean your saree only when necessary. You must air your saree from time to time and refold regularly to avoid creasing at the same location over an extended period of time. Kora sarees or fine Jamdanis can also be rolled for storage.<\/p><p>It is also advisable to store silk sarees in a breathable, uncoloured, muslin cloth in a dry location. Avoid exposure to moisture as it may damage the saree or the zari. Also avoid ironing directly on the zari and any direct contact with perfume.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "accordion-0",
+        "accordion-1",
+        "accordion-2"
+      ],
+      "settings": {
+        "heading": "Product",
+        "allow_multiple": false,
+        "section_padding": "both"
+      }
+    },
+    "16422346551f0ad6ff": {
+      "type": "accordion",
+      "blocks": {
+        "16422346552850697b-0": {
+          "type": "panel",
+          "settings": {
+            "heading": "Your website is showing the price in rupees, how much will it cost in foreign currencies?",
+            "content": "<p>We have a Currency Converter on our website. You can use that to check the price of the product in your desired curreny. The Currencies that we support are shown over there.<\/p>"
+          }
+        },
+        "16422346552850697b-1": {
+          "type": "panel",
+          "settings": {
+            "heading": "The payment page is redirecting me to a different website. Is it safe to go ahead with my Payment?",
+            "content": "<p>The payment page will not redirect you to a new website page. When you finish your checkout and continue to the payment, based on the mode of payment, you may see different pages.<\/p><p>1. <strong>Razorpay<\/strong> - If you choose razorpay as your payment option, you will be shown a modal where you can enter your payment details safely and without any concern.<\/p><p>2. <strong>Cash On Delivery<\/strong> - For COD orders, you will be shown your final order thank you page, confirming we have gotten you order. you won't be asked to do anything else.<\/p>"
+          }
+        },
+        "16422346552850697b-2": {
+          "type": "panel",
+          "settings": {
+            "heading": "My payment has failed, is there any other mode of payment?",
+            "content": "<p>Based on the mode of payment, you make take the below neccessary steps - <\/p><p>1. <strong>Razorpay<\/strong> - If your payment fails when doing an online transaction, you may try again with the same mode. If it fails again, try to use the COD option. In case of failure, you will get to know the reason.<\/p><p>2. <strong>Cash on Delivery<\/strong> - When opting for COD, there is no chance of payment failure, so you need not worry.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16422346552850697b-0",
+        "16422346552850697b-1",
+        "16422346552850697b-2"
+      ],
+      "settings": {
+        "heading": "Payment",
+        "allow_multiple": false,
+        "section_padding": "both"
+      }
+    },
+    "1642234893ac523720": {
+      "type": "accordion",
+      "blocks": {
+        "1642234893384b4988-0": {
+          "type": "panel",
+          "settings": {
+            "heading": "What courier services do you use?",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1642234893384b4988-1": {
+          "type": "panel",
+          "settings": {
+            "heading": "What are the delivery timelines and charges for shipping to international destinations?",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1642234893384b4988-2": {
+          "type": "panel",
+          "settings": {
+            "heading": "Do you offer Cash on Delivery?",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1642234893384b4988-0",
+        "1642234893384b4988-1",
+        "1642234893384b4988-2"
+      ],
+      "settings": {
+        "heading": "Delivery",
+        "allow_multiple": false,
+        "section_padding": "both"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1642234644b9fce853",
+    "accordion",
+    "16422346551f0ad6ff",
+    "1642234893ac523720"
+  ]
+}

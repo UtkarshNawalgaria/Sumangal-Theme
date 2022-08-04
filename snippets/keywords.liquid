@@ -1,0 +1,5 @@
+{% if template contains 'index' %}
+ <meta name="keywords" content="sumangal banaras, sumangalekam, sumangalbanaras, sumangal ekam, sumangal, sumangalam shop in varanasi">
+{% elsif template contains 'product' %}
+ <meta name="keywords" content="{{ product.metafields.my_fields.keywords.value }}">
+{% endif %}

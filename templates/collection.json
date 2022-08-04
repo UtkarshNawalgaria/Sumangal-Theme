@@ -1,0 +1,40 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "display_wide": true,
+        "image": "shopify:\/\/shop_images\/01222.jpg"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "blocks": {
+        "09c8646c-4950-4b20-bdc7-f0b7621abd86": {
+          "type": "side_filter",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "09c8646c-4950-4b20-bdc7-f0b7621abd86"
+      ],
+      "settings": {
+        "full_width": false,
+        "grid": 4,
+        "products_per_page": 16,
+        "infinite_scroll": false,
+        "show_image": false,
+        "description_position": "bottom_description",
+        "is_sticky": false,
+        "sort_by": true,
+        "show_slideout_sidebar": true
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "main"
+  ]
+}

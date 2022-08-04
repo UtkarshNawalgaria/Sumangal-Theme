@@ -1,0 +1,59 @@
+{
+  "sections": {
+    "162811634384e849d0": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/01222.jpg",
+        "scale": 0,
+        "page_height": 300,
+        "title": "Video Shopping",
+        "subheading": "",
+        "button_text": "",
+        "link": "",
+        "overlay_opacity": 80,
+        "text_color": "#ffffff",
+        "button_text_color": "#ffffff",
+        "button_color": "#000000",
+        "background": "rgba(0,0,0,0)",
+        "caption_horizontal": 50,
+        "caption_vertical": 50,
+        "text_align": "center",
+        "section_padding": "bottom"
+      }
+    },
+    "1642331413ed011f62": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Video Shopping",
+        "cf_max_width": 800,
+        "cf_show_first_name": true,
+        "cf_show_last_name": false,
+        "cf_show_company_name": false,
+        "cf_show_address": false,
+        "cf_show_website_url": false,
+        "cf_show_phone": true,
+        "cf_show_select": true,
+        "cf_show_custom_field_one": false,
+        "cf_custom_field_one": "Custom Field One",
+        "cf_custom_field_one_type": "input",
+        "cf_show_custom_field_two": false,
+        "cf_custom_field_two": "Custom Field Two",
+        "cf_custom_field_two_type": "input",
+        "section_padding": "both"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_size": "thin",
+        "sidebar_positon": "left"
+      }
+    }
+  },
+  "order": [
+    "162811634384e849d0",
+    "1642331413ed011f62",
+    "main"
+  ]
+}

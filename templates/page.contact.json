@@ -1,0 +1,155 @@
+{
+  "sections": {
+    "16281163190f900135": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/01222.jpg",
+        "scale": 2,
+        "page_height": 300,
+        "title": "Contact Us",
+        "subheading": "",
+        "button_text": "",
+        "link": "",
+        "overlay_opacity": 80,
+        "text_color": "#ffffff",
+        "button_text_color": "#ffffff",
+        "button_color": "#000000",
+        "background": "rgba(0,0,0,0)",
+        "caption_horizontal": 50,
+        "caption_vertical": 50,
+        "text_align": "center",
+        "section_padding": "bottom"
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Have a Question? Contact us Online",
+        "cf_max_width": 1000,
+        "cf_show_first_name": true,
+        "cf_show_last_name": true,
+        "cf_show_company_name": true,
+        "cf_show_address": true,
+        "cf_show_website_url": false,
+        "cf_show_phone": true,
+        "cf_show_select": false,
+        "cf_show_custom_field_one": false,
+        "cf_custom_field_one": "Custom Field One",
+        "cf_custom_field_one_type": "input",
+        "cf_show_custom_field_two": false,
+        "cf_custom_field_two": "Custom Field Two",
+        "cf_custom_field_two_type": "input",
+        "section_padding": "both"
+      }
+    },
+    "1642233238eabc11ed": {
+      "type": "custom-liquid",
+      "settings": {
+        "liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3607.865458188691!2d83.00807801501112!3d25.275110983859964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398e319726cfdb69%3A0x821a1390dd850f47!2sBalaji%20Complex%2C%20Ramnagar%20Rd%2C%20Samne%20Ghat%2C%20Nagwa%20Lanka%2C%20Varanasi%2C%20Uttar%20Pradesh%20221005!5e0!3m2!1sen!2sin!4v1642233415745!5m2!1sen!2sin\" width=\"600\" height=\"500\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"><\/iframe>",
+        "full_width": true,
+        "section_padding": "both"
+      }
+    },
+    "1628116181ed38b1a0": {
+      "type": "editorial-columns",
+      "blocks": {
+        "1628116181ed38b1a0-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/02.png",
+            "image_width": "33%",
+            "heading": "Address",
+            "rich_text": "<p>Balaji Complex, Sigra Chauraha Rd, Gandhi Nagar, Chhittupura, Sigra, Varanasi, Uttar Pradesh 221010<\/p>",
+            "button": "",
+            "link": "https:\/\/www.google.com\/maps?cid=12609588992210112073&hl=en&_ga=2.4502707.1654253172.1655919432-1455308401.1644495246",
+            "text_align": "center"
+          }
+        },
+        "1628116181ed38b1a0-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/01.png",
+            "image_width": "33%",
+            "heading": "Give Us Call",
+            "rich_text": "<p>918795663333<\/p><p><strong>Timings: <\/strong>1pm to 7pm- Mon to Sat<\/p><p><strong>(online customers only)<\/strong><\/p>",
+            "button": "",
+            "link": "",
+            "text_align": "center"
+          }
+        },
+        "1628116181ed38b1a0-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/03.png",
+            "image_width": "33%",
+            "heading": "Message",
+            "rich_text": "<p>sales@sumangalbanaras.com<\/p>",
+            "button": "Email Us",
+            "link": "",
+            "text_align": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1628116181ed38b1a0-0",
+        "1628116181ed38b1a0-1",
+        "1628116181ed38b1a0-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "title": "Contact Information",
+        "heading_size": 24,
+        "text_size": 14,
+        "color_scheme": "none",
+        "section_padding": "both"
+      }
+    },
+    "16281162861b62e38b": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Subscribe to our newsletter",
+        "newsletter_subheading": "<p>Use overlay text to give your Join our mailing list - no spam!<\/p>",
+        "mail_gdpr_text": "<p>*You're signing up to receive our emails and can unsubscribe at any time.<\/p>",
+        "color_scheme": "cs1",
+        "section_padding": "both"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "blocks": {
+        "fd5ea200-b23e-48a3-8fb2-c04c72331117": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sfsff.jpg",
+            "link": ""
+          }
+        },
+        "05e1d252-fd81-4ec5-bd9c-91573de5c85f": {
+          "type": "text_note",
+          "settings": {
+            "textbox_heading": "Heading",
+            "textbox_subheading": "<p>Subheading<\/p>",
+            "subheading_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "fd5ea200-b23e-48a3-8fb2-c04c72331117",
+        "05e1d252-fd81-4ec5-bd9c-91573de5c85f"
+      ],
+      "settings": {
+        "page_size": "full_page",
+        "sidebar_positon": "left"
+      }
+    }
+  },
+  "order": [
+    "16281163190f900135",
+    "form",
+    "1642233238eabc11ed",
+    "1628116181ed38b1a0",
+    "16281162861b62e38b",
+    "main"
+  ]
+}
