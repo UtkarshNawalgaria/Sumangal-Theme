@@ -42,32 +42,19 @@
         "section_padding": "bottom"
       }
     },
-    "1625752966582d2e67": {
-      "type": "featured-collection",
-      "settings": {
-        "full_width": false,
-        "title": "NEW ARRIVALS",
-        "collection": "new-arrivals",
-        "carousel": true,
-        "grid": 4,
-        "limit": 8,
-        "color_scheme": "none",
-        "section_padding": "both"
-      }
-    },
     "16257529781b844d78": {
       "type": "collection-list",
       "blocks": {
         "16257529781b844d78-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "banarasi-bandhej-saree"
+            "collection": "sarees"
           }
         },
         "645b689e-b6b0-4e44-bec4-65f7a648515c": {
           "type": "featured_collection",
           "settings": {
-            "collection": "blue-banarasi-saree"
+            "collection": "indo-western"
           }
         },
         "d484cbf4-ac0c-4af0-8eab-b67a94a1e7b8": {
@@ -79,7 +66,7 @@
         "73b5de1f-c68e-424a-9507-349224e607b0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "unstitched-suits"
+            "collection": "saree-blouse"
           }
         }
       },
@@ -95,6 +82,19 @@
         "grid": 4,
         "color_scheme": "none",
         "section_padding": "top"
+      }
+    },
+    "1625752966582d2e67": {
+      "type": "featured-collection",
+      "settings": {
+        "full_width": false,
+        "title": "NEW ARRIVALS",
+        "collection": "new-arrivals",
+        "carousel": true,
+        "grid": 4,
+        "limit": 8,
+        "color_scheme": "none",
+        "section_padding": "both"
       }
     },
     "1658336904b5821102": {
@@ -183,8 +183,8 @@
   },
   "order": [
     "1625752154523bf545",
-    "1625752966582d2e67",
     "16257529781b844d78",
+    "1625752966582d2e67",
     "1658336904b5821102",
     "16435284213ca07f34",
     "16508011074401ef45",
