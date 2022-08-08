@@ -90,7 +90,7 @@
         "full_width": false,
         "title": "NEW ARRIVALS",
         "collection": "new-arrivals",
-        "carousel": true,
+        "carousel": false,
         "grid": 4,
         "limit": 8,
         "color_scheme": "none",
