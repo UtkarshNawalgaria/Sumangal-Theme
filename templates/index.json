@@ -3,6 +3,30 @@
     "1625752154523bf545": {
       "type": "slideshow",
       "blocks": {
+        "b72ad6f1-9998-4dc3-af08-8f5379839ee2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IndependenceDay.jpg",
+            "overlay": false,
+            "text_align": "left",
+            "caption_horizontal": 50,
+            "caption_vertical": 50,
+            "hide_caption_background": false,
+            "caption_below": false,
+            "heading": "",
+            "subheading": "",
+            "link": "",
+            "button_text": "",
+            "second_link": "",
+            "second_button_text": "",
+            "slide_text_color": "#000000",
+            "cta_color": "#ffffff",
+            "cta_background": "#000000",
+            "cta_background_hover": "#000000",
+            "caption_background": "rgba(0,0,0,0)",
+            "caption_background_opacity": 20
+          }
+        },
         "925e055a-2215-44d1-9e28-12e623cb2b3e": {
           "type": "image",
           "settings": {
@@ -26,35 +50,11 @@
             "caption_background": "rgba(0,0,0,0)",
             "caption_background_opacity": 20
           }
-        },
-        "b72ad6f1-9998-4dc3-af08-8f5379839ee2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/RAKHI15.png",
-            "overlay": false,
-            "text_align": "left",
-            "caption_horizontal": 50,
-            "caption_vertical": 50,
-            "hide_caption_background": false,
-            "caption_below": false,
-            "heading": "",
-            "subheading": "",
-            "link": "",
-            "button_text": "",
-            "second_link": "",
-            "second_button_text": "",
-            "slide_text_color": "#000000",
-            "cta_color": "#ffffff",
-            "cta_background": "#000000",
-            "cta_background_hover": "#000000",
-            "caption_background": "transparent",
-            "caption_background_opacity": 20
-          }
         }
       },
       "block_order": [
-        "925e055a-2215-44d1-9e28-12e623cb2b3e",
-        "b72ad6f1-9998-4dc3-af08-8f5379839ee2"
+        "b72ad6f1-9998-4dc3-af08-8f5379839ee2",
+        "925e055a-2215-44d1-9e28-12e623cb2b3e"
       ],
       "settings": {
         "enable_autoplay": true,
