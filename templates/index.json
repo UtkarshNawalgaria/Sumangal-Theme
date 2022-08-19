@@ -3,30 +3,6 @@
     "1625752154523bf545": {
       "type": "slideshow",
       "blocks": {
-        "925e055a-2215-44d1-9e28-12e623cb2b3e": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Beautiful_Banarasi_Sarees.png",
-            "overlay": false,
-            "text_align": "left",
-            "caption_horizontal": 50,
-            "caption_vertical": 50,
-            "hide_caption_background": false,
-            "caption_below": false,
-            "heading": "",
-            "subheading": "",
-            "link": "",
-            "button_text": "",
-            "second_link": "",
-            "second_button_text": "",
-            "slide_text_color": "#000000",
-            "cta_color": "#ffffff",
-            "cta_background": "#000000",
-            "cta_background_hover": "#000000",
-            "caption_background": "rgba(0,0,0,0)",
-            "caption_background_opacity": 20
-          }
-        },
         "720b5288-4c39-4809-a492-3ec8c8076895": {
           "type": "image",
           "settings": {
@@ -50,11 +26,85 @@
             "caption_background": "#ffffff",
             "caption_background_opacity": 10
           }
+        },
+        "925e055a-2215-44d1-9e28-12e623cb2b3e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/10.png",
+            "overlay": false,
+            "text_align": "left",
+            "caption_horizontal": 50,
+            "caption_vertical": 50,
+            "hide_caption_background": false,
+            "caption_below": false,
+            "heading": "",
+            "subheading": "",
+            "link": "",
+            "button_text": "",
+            "second_link": "",
+            "second_button_text": "",
+            "slide_text_color": "#000000",
+            "cta_color": "#ffffff",
+            "cta_background": "#000000",
+            "cta_background_hover": "#000000",
+            "caption_background": "rgba(0,0,0,0)",
+            "caption_background_opacity": 20
+          }
+        },
+        "b79ebd36-bbb0-4d73-84db-0b0e7cc6ea23": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9.png",
+            "overlay": false,
+            "text_align": "left",
+            "caption_horizontal": 0,
+            "caption_vertical": 0,
+            "hide_caption_background": false,
+            "caption_below": false,
+            "heading": "",
+            "subheading": "",
+            "link": "",
+            "button_text": "Add a button",
+            "second_link": "",
+            "second_button_text": "Button 2 text",
+            "slide_text_color": "#000000",
+            "cta_color": "#ffffff",
+            "cta_background": "#000000",
+            "cta_background_hover": "#000000",
+            "caption_background": "{{ shop.brand.colors.primary[0].background }}",
+            "caption_background_opacity": 10
+          }
+        },
+        "dbd7e2f7-8de3-4938-b05c-fb205c319969": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8.png",
+            "overlay": false,
+            "text_align": "left",
+            "caption_horizontal": 0,
+            "caption_vertical": 0,
+            "hide_caption_background": false,
+            "caption_below": false,
+            "heading": "",
+            "subheading": "",
+            "link": "",
+            "button_text": "Add a button",
+            "second_link": "",
+            "second_button_text": "Button 2 text",
+            "slide_text_color": "#000000",
+            "cta_color": "#ffffff",
+            "cta_background": "#000000",
+            "cta_background_hover": "#000000",
+            "caption_background": "#fcf9f9",
+            "caption_background_opacity": 10
+          }
         }
       },
       "block_order": [
+        "720b5288-4c39-4809-a492-3ec8c8076895",
         "925e055a-2215-44d1-9e28-12e623cb2b3e",
-        "720b5288-4c39-4809-a492-3ec8c8076895"
+        "b79ebd36-bbb0-4d73-84db-0b0e7cc6ea23",
+        "dbd7e2f7-8de3-4938-b05c-fb205c319969"
       ],
       "settings": {
         "enable_autoplay": true,
