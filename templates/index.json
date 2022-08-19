@@ -33,7 +33,7 @@
             "image": "shopify:\/\/shop_images\/janmashtami-online-banner.jpg",
             "overlay": false,
             "text_align": "left",
-            "caption_horizontal": 50,
+            "caption_horizontal": 0,
             "caption_vertical": 50,
             "hide_caption_background": false,
             "caption_below": false,
@@ -47,7 +47,7 @@
             "cta_color": "#ffffff",
             "cta_background": "#000000",
             "cta_background_hover": "#ffffff",
-            "caption_background": "transparent",
+            "caption_background": "#ffffff",
             "caption_background_opacity": 10
           }
         }
