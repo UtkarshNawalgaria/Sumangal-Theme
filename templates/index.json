@@ -26,10 +26,35 @@
             "caption_background": "rgba(0,0,0,0)",
             "caption_background_opacity": 20
           }
+        },
+        "720b5288-4c39-4809-a492-3ec8c8076895": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/janmashtami-online-banner.jpg",
+            "overlay": false,
+            "text_align": "left",
+            "caption_horizontal": 50,
+            "caption_vertical": 50,
+            "hide_caption_background": false,
+            "caption_below": false,
+            "heading": "",
+            "subheading": "",
+            "link": "",
+            "button_text": "Add a button",
+            "second_link": "",
+            "second_button_text": "Button 2 text",
+            "slide_text_color": "#000000",
+            "cta_color": "#ffffff",
+            "cta_background": "#000000",
+            "cta_background_hover": "#ffffff",
+            "caption_background": "transparent",
+            "caption_background_opacity": 10
+          }
         }
       },
       "block_order": [
-        "925e055a-2215-44d1-9e28-12e623cb2b3e"
+        "925e055a-2215-44d1-9e28-12e623cb2b3e",
+        "720b5288-4c39-4809-a492-3ec8c8076895"
       ],
       "settings": {
         "enable_autoplay": true,
