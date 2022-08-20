@@ -7642,7 +7642,31 @@ theme.MailingPopup = (function() {
   return MailingPopup;
 })();
 
+theme.TabbedCollection = (function(){
+  function TabbedCollection(container) {
+    this.container = container;
+    this.init();
+  }
 
+  TabbedCollection.prototype = _.assignIn({}, TabbedCollection.prototype, {
+    init: function() {
+      const tabButtons = this.container.querySelectorAll("[data-tab-target]");
+      const tabContents = this.container.querySelectorAll(".tabbed__collection-content");
+
+      tabButtons.forEach(tab => {
+        tab.addEventListener('click', () => {
+          const selectedContent = this.container.querySelector(tab.dataset.tabTarget);
+          tabContents.forEach(item => item.classList.remove("tab-content-active"));
+          tabButtons.forEach(item => item.classList.remove("tab-button-active"));
+          selectedContent.classList.add("tab-content-active");
+          tab.classList.add("tab-button-active");
+        })
+      })
+    }
+  })
+
+  return TabbedCollection
+})();
 
 /*============================================================================
   Registering Index Sections
@@ -7671,6 +7695,7 @@ document.addEventListener("DOMContentLoaded", function(){
   sections.register('password-page', theme.Password);
   sections.register('mailing-popup', theme.MailingPopup);
   sections.register('customer-account', theme.CustomerAccount);
+  sections.register('tabbed-collections-section', theme.TabbedCollection);
 });
 
 /*============================================================================

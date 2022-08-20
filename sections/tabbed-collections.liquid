@@ -1,0 +1,53 @@
+{%- liquid
+	assign section_padding = ''
+	if section.settings.section_padding == 'top'
+	  assign section_padding = 'pb0'
+	elsif section.settings.section_padding == 'bottom'
+	  assign section_padding = 'pt0'
+	elsif section.settings.section_padding == 'none'
+	  assign section_padding = 'pt0 pb0'
+	endif
+-%}
+
+<section class="tabbed-collections-section tab_collections--{{ section.id }} global__section global__section--padding" data-section-id="{{ section.id }}" data-section-type="tabbed-collections-section">
+	<div class="row tabbed__collection-buttons">
+		{% for collection in section.settings.collections %}
+			<div data-tab-target="#{{ collection.handle }}" class="{% if forloop.index == 1 %}tab-button-active{% endif %}">{{ collection.title }}</div>
+		{% endfor %}
+	</div>
+	<div class="row">
+		{% for collection_item in section.settings.collections %}
+			<div class="tabbed__collection-content {% if forloop.index == 1 %}tab-content-active{% endif %}" id="{{ collection_item.handle }}">
+				{% for product in collection_item.products limit: 4 %}
+					<div class="tabbed__collection-product product-index" id="product-listing-{{ product.id }}" data-product-id="{{ product.id }}" data-alpha="{{ product.title }}" data-price="{{ product.price }}">
+						{% render 'product-listing', product: product, collection: collection %}
+					</div>
+				{% endfor %}
+			</div>
+		{% endfor %}
+	</div>
+</section>
+
+{% schema %}
+{
+	"name": "Tabbed Collections",
+	"settings": [
+		{
+			"id": "collections",
+			"type": "collection_list",
+			"label": "Collections",
+			"limit": 6
+		}
+	],
+	"presets":
+	[
+		{
+			"name": "Tabbed Collections"
+		}
+	],
+	"templates": [
+		"index",
+		"page"
+	]
+}
+{% endschema %}
