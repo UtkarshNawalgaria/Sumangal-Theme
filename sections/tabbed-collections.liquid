@@ -18,11 +18,16 @@
 	<div class="row">
 		{% for collection_item in section.settings.collections %}
 			<div class="tabbed__collection-content {% if forloop.index == 1 %}tab-content-active{% endif %}" id="{{ collection_item.handle }}">
-				{% for product in collection_item.products limit: 4 %}
-					<div class="tabbed__collection-product product-index" id="product-listing-{{ product.id }}" data-product-id="{{ product.id }}" data-alpha="{{ product.title }}" data-price="{{ product.price }}">
-						{% render 'product-listing', product: product, collection: collection %}
-					</div>
-				{% endfor %}
+				<div class="tabbed__collection-products">
+					{% for product in collection_item.products limit: 4 %}
+						<div class="tabbed__collection-product product-index" id="product-listing-{{ product.id }}" data-product-id="{{ product.id }}" data-alpha="{{ product.title }}" data-price="{{ product.price }}">
+							{% render 'product-listing', product: product, collection: collection %}
+						</div>
+					{% endfor %}
+				</div>
+				<div class="view-more">
+					<a href="/collections/{{ collection_item.handle }}" target="_blank">View More</a>
+				</div>
 			</div>
 		{% endfor %}
 	</div>
