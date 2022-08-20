@@ -169,7 +169,7 @@
         "grid": 4,
         "limit": 8,
         "color_scheme": "none",
-        "section_padding": "both"
+        "section_padding": "none"
       }
     },
     "1658336904b5821102": {
@@ -182,7 +182,7 @@
         "grid": 4,
         "limit": 8,
         "color_scheme": "none",
-        "section_padding": "bottom"
+        "section_padding": "none"
       }
     },
     "1659979808167f5952": {
