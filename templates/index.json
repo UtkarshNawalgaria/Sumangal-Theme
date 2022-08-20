@@ -39,7 +39,7 @@
             "caption_below": false,
             "heading": "",
             "subheading": "",
-            "link": "",
+            "link": "shopify:\/\/collections\/bridesmaid-baarat",
             "button_text": "",
             "second_link": "",
             "second_button_text": "",
@@ -87,10 +87,10 @@
             "caption_below": false,
             "heading": "",
             "subheading": "",
-            "link": "",
-            "button_text": "Add a button",
+            "link": "shopify:\/\/collections\/lehengas",
+            "button_text": "",
             "second_link": "",
-            "second_button_text": "Button 2 text",
+            "second_button_text": "",
             "slide_text_color": "#000000",
             "cta_color": "#ffffff",
             "cta_background": "#000000",
@@ -169,7 +169,7 @@
         "grid": 4,
         "limit": 8,
         "color_scheme": "none",
-        "section_padding": "both"
+        "section_padding": "none"
       }
     },
     "1658336904b5821102": {
@@ -182,7 +182,7 @@
         "grid": 4,
         "limit": 8,
         "color_scheme": "none",
-        "section_padding": "bottom"
+        "section_padding": "none"
       }
     },
     "1659979808167f5952": {
