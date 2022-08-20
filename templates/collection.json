@@ -29,12 +29,7 @@
         "description_position": "bottom_description",
         "is_sticky": false,
         "sort_by": true,
-        "show_slideout_sidebar": true,
-        "collections": [
-          "sarees",
-          "lehengas",
-          "indo-western"
-        ]
+        "show_slideout_sidebar": true
       }
     }
   },
