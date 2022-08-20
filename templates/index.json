@@ -159,6 +159,18 @@
         "section_padding": "top"
       }
     },
+    "1661028223abed1282": {
+      "type": "tabbed-collections",
+      "settings": {
+        "collections": [
+          "sarees",
+          "indo-western",
+          "lehengas",
+          "unstitched-suits",
+          "dupattas"
+        ]
+      }
+    },
     "1625752966582d2e67": {
       "type": "featured-collection",
       "settings": {
@@ -294,6 +306,7 @@
   "order": [
     "1625752154523bf545",
     "16257529781b844d78",
+    "1661028223abed1282",
     "1625752966582d2e67",
     "1658336904b5821102",
     "1659979808167f5952",
