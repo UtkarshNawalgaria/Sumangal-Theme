@@ -171,6 +171,19 @@
         ]
       }
     },
+    "166109855761b764f5": {
+      "type": "featured-collection",
+      "settings": {
+        "full_width": false,
+        "title": "Sarees Under Rs 10000",
+        "collection": "sarees-under-rs-10000",
+        "carousel": false,
+        "grid": 4,
+        "limit": 4,
+        "color_scheme": "none",
+        "section_padding": "both"
+      }
+    },
     "1625752966582d2e67": {
       "type": "featured-collection",
       "settings": {
@@ -301,31 +314,18 @@
         "full_width": false,
         "section_padding": "both"
       }
-    },
-    "166109855761b764f5": {
-      "type": "featured-collection",
-      "settings": {
-        "full_width": false,
-        "title": "Sarees Under Rs 10000",
-        "collection": "sarees-under-rs-10000",
-        "carousel": false,
-        "grid": 4,
-        "limit": 4,
-        "color_scheme": "none",
-        "section_padding": "both"
-      }
     }
   },
   "order": [
     "1625752154523bf545",
     "16257529781b844d78",
     "1661028223abed1282",
+    "166109855761b764f5",
     "1625752966582d2e67",
     "1658336904b5821102",
     "1659979808167f5952",
     "16435284213ca07f34",
     "16508011074401ef45",
-    "1655372716d878bc46",
-    "166109855761b764f5"
+    "1655372716d878bc46"
   ]
 }
