@@ -123,7 +123,7 @@
         "16257529781b844d78-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "sarees"
+            "collection": "banarasi-sarees"
           }
         },
         "645b689e-b6b0-4e44-bec4-65f7a648515c": {
@@ -163,7 +163,7 @@
       "type": "tabbed-collections",
       "settings": {
         "collections": [
-          "sarees",
+          "banarasi-sarees",
           "indo-western",
           "lehengas",
           "unstitched-suits",
@@ -189,7 +189,7 @@
       "settings": {
         "full_width": false,
         "title": "Latest Sarees",
-        "collection": "sarees",
+        "collection": "banarasi-sarees",
         "carousel": true,
         "grid": 4,
         "limit": 8,
