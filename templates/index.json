@@ -163,9 +163,9 @@
       "type": "tabbed-collections",
       "settings": {
         "collections": [
+          "lehengas",
           "banarasi-sarees",
           "indo-western",
-          "lehengas",
           "unstitched-suits",
           "dupattas"
         ]
