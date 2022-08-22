@@ -32,7 +32,7 @@
       "latitude": 25.3125277,
       "longitude": 82.9888931
     },
-   "url": "{{ routes.root_url }}",
+   "url": "{{ shop.url }}",
    {% if settings.social_logo != blank %}
    {%- assign image_size = '600x' -%}
    "logo": "{{ settings.social_logo | img_url: image_size }}",
@@ -41,7 +41,7 @@
      "@type": "ContactPoint",
      "contactType": "customer support",
      "email": "{{ shop.email }}",
-     "url": "{{ routes.root_url }}"
+     "url": "{{ shop.url }}"
    },
    "sameAs": [
     "{{ shop.url }}"
