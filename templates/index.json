@@ -257,12 +257,19 @@
           "settings": {
             "collection": "contemporary-classics"
           }
+        },
+        "ffa59a92-4d3b-4dd2-ba7b-9a87696c1984": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "chic-casuals"
+          }
         }
       },
       "block_order": [
         "16612383952e9a9005-0",
         "16612383952e9a9005-1",
-        "16612383952e9a9005-2"
+        "16612383952e9a9005-2",
+        "ffa59a92-4d3b-4dd2-ba7b-9a87696c1984"
       ],
       "settings": {
         "full_width": false,
