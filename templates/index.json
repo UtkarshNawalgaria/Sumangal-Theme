@@ -180,7 +180,7 @@
       "type": "featured-collection",
       "settings": {
         "full_width": false,
-        "title": "Sarees Under Rs 10000",
+        "title": "SAREES UNDER Rs 10000",
         "collection": "sarees-under-rs-10000",
         "carousel": false,
         "grid": 4,
@@ -222,17 +222,24 @@
           "settings": {
             "collection": "fabric-tussar-silk"
           }
+        },
+        "34adec02-2afa-41dd-8d6d-70b37b136657": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fabric-cotton"
+          }
         }
       },
       "block_order": [
         "16599798084e955ab0-0",
         "16599798084e955ab0-1",
-        "16599798084e955ab0-2"
+        "16599798084e955ab0-2",
+        "34adec02-2afa-41dd-8d6d-70b37b136657"
       ],
       "settings": {
         "full_width": false,
-        "title": "Products By Fabric",
-        "grid": 3,
+        "title": "PRODUCTS BY FABRIC",
+        "grid": 4,
         "color_scheme": "none",
         "section_padding": "both"
       }
