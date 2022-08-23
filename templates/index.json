@@ -274,7 +274,7 @@
       "settings": {
         "full_width": false,
         "title": "PRODUCTS BY OCCASION",
-        "grid": 3,
+        "grid": 4,
         "color_scheme": "none",
         "section_padding": "both"
       }
