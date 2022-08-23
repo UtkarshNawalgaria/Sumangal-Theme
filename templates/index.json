@@ -236,45 +236,38 @@
         "section_padding": "both"
       }
     },
-    "16435284213ca07f34": {
-      "type": "slideshow",
+    "1661238395cdc53d25": {
+      "type": "collection-list",
       "blocks": {
-        "1643528421763a1596-0": {
-          "type": "image",
+        "16612383952e9a9005-0": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify:\/\/shop_images\/02222222.jpg",
-            "overlay": false,
-            "text_align": "left",
-            "caption_horizontal": 50,
-            "caption_vertical": 50,
-            "hide_caption_background": false,
-            "caption_below": false,
-            "heading": "",
-            "subheading": "",
-            "link": "shopify:\/\/collections\/all",
-            "button_text": "",
-            "second_link": "",
-            "second_button_text": "",
-            "slide_text_color": "#000000",
-            "cta_color": "#ffffff",
-            "cta_background": "#000000",
-            "cta_background_hover": "#000000",
-            "caption_background": "rgba(0,0,0,0)",
-            "caption_background_opacity": 20
+            "collection": "bridesmaid-baarat"
+          }
+        },
+        "16612383952e9a9005-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "wedding-wishes"
+          }
+        },
+        "16612383952e9a9005-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "contemporary-classics"
           }
         }
       },
       "block_order": [
-        "1643528421763a1596-0"
+        "16612383952e9a9005-0",
+        "16612383952e9a9005-1",
+        "16612383952e9a9005-2"
       ],
       "settings": {
-        "enable_autoplay": false,
-        "slider_speed": 5,
-        "pager": "dots",
-        "video_audio": "off",
-        "slide_heading_size": 22,
-        "subheading_size": 14,
-        "cta_size": 14,
+        "full_width": false,
+        "title": "PRODUCTS BY OCCASION",
+        "grid": 3,
+        "color_scheme": "none",
         "section_padding": "both"
       }
     },
@@ -314,7 +307,7 @@
     "166109855761b764f5",
     "1625752966582d2e67",
     "1659979808167f5952",
-    "16435284213ca07f34",
+    "1661238395cdc53d25",
     "16508011074401ef45",
     "1655372716d878bc46"
   ]
