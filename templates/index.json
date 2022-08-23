@@ -165,6 +165,7 @@
     "1661028223abed1282": {
       "type": "tabbed-collections",
       "settings": {
+        "title": "NEW ARRIVALS",
         "collections": [
           "lehengas",
           "banarasi-sarees",
@@ -191,22 +192,9 @@
       "type": "featured-collection",
       "settings": {
         "full_width": false,
-        "title": "NEW ARRIVALS",
+        "title": "OUR LATEST PRODUCTS",
         "collection": "new-arrivals",
         "carousel": false,
-        "grid": 4,
-        "limit": 8,
-        "color_scheme": "none",
-        "section_padding": "none"
-      }
-    },
-    "1658336904b5821102": {
-      "type": "featured-collection",
-      "settings": {
-        "full_width": false,
-        "title": "Latest Sarees",
-        "collection": "banarasi-sarees",
-        "carousel": true,
         "grid": 4,
         "limit": 8,
         "color_scheme": "none",
@@ -325,7 +313,6 @@
     "1661028223abed1282",
     "166109855761b764f5",
     "1625752966582d2e67",
-    "1658336904b5821102",
     "1659979808167f5952",
     "16435284213ca07f34",
     "16508011074401ef45",
