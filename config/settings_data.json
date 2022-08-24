@@ -1079,7 +1079,7 @@
     "grid_space": 30,
     "details_align": "left",
     "product_image_size": "portrait",
-    "image_flip": false,
+    "image_flip": true,
     "vendor": false,
     "show_rating": false,
     "quickview": true,

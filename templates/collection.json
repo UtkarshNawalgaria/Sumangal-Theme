@@ -23,7 +23,7 @@
       "settings": {
         "full_width": false,
         "grid": 4,
-        "products_per_page": 16,
+        "products_per_page": 20,
         "infinite_scroll": false,
         "show_image": false,
         "description_position": "bottom_description",

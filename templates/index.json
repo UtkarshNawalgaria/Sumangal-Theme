@@ -11,6 +11,7 @@
             "text_align": "left",
             "caption_horizontal": 0,
             "caption_vertical": 50,
+            "mobile_image": "shopify:\/\/shop_images\/Sumangal_New_Website_Banners_1800_x_800_px_1080_x_1080_px.png",
             "hide_caption_background": false,
             "caption_below": false,
             "heading": "",
@@ -40,7 +41,7 @@
             "caption_below": false,
             "heading": "",
             "subheading": "",
-            "link": "shopify:\/\/collections\/bridesmaid-baarat",
+            "link": "shopify:\/\/collections\/bridesmaid-essentials",
             "button_text": "",
             "second_link": "",
             "second_button_text": "",
@@ -179,7 +180,7 @@
       "type": "featured-collection",
       "settings": {
         "full_width": false,
-        "title": "Sarees Under Rs 10000",
+        "title": "SAREES UNDER Rs 10000",
         "collection": "sarees-under-rs-10000",
         "carousel": false,
         "grid": 4,
@@ -221,17 +222,24 @@
           "settings": {
             "collection": "fabric-tussar-silk"
           }
+        },
+        "34adec02-2afa-41dd-8d6d-70b37b136657": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fabric-cotton"
+          }
         }
       },
       "block_order": [
         "16599798084e955ab0-0",
         "16599798084e955ab0-1",
-        "16599798084e955ab0-2"
+        "16599798084e955ab0-2",
+        "34adec02-2afa-41dd-8d6d-70b37b136657"
       ],
       "settings": {
         "full_width": false,
-        "title": "Products By Fabric",
-        "grid": 3,
+        "title": "PRODUCTS BY FABRIC",
+        "grid": 4,
         "color_scheme": "none",
         "section_padding": "both"
       }
@@ -242,7 +250,7 @@
         "16612383952e9a9005-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bridesmaid-baarat"
+            "collection": "bridesmaid-essentials"
           }
         },
         "16612383952e9a9005-1": {
@@ -256,18 +264,25 @@
           "settings": {
             "collection": "contemporary-classics"
           }
+        },
+        "ffa59a92-4d3b-4dd2-ba7b-9a87696c1984": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "chic-casuals"
+          }
         }
       },
       "block_order": [
         "16612383952e9a9005-0",
         "16612383952e9a9005-1",
-        "16612383952e9a9005-2"
+        "16612383952e9a9005-2",
+        "ffa59a92-4d3b-4dd2-ba7b-9a87696c1984"
       ],
       "settings": {
         "full_width": false,
         "title": "PRODUCTS BY OCCASION",
-        "grid": 3,
-        "color_scheme": "none",
+        "grid": 4,
+        "color_scheme": "cs1",
         "section_padding": "both"
       }
     },
