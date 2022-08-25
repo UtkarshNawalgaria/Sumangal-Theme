@@ -3,31 +3,6 @@
     "1625752154523bf545": {
       "type": "slideshow",
       "blocks": {
-        "720b5288-4c39-4809-a492-3ec8c8076895": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1.png",
-            "overlay": false,
-            "text_align": "left",
-            "caption_horizontal": 0,
-            "caption_vertical": 50,
-            "mobile_image": "shopify:\/\/shop_images\/Sumangal_New_Website_Banners_1800_x_800_px_1080_x_1080_px.png",
-            "hide_caption_background": false,
-            "caption_below": false,
-            "heading": "",
-            "subheading": "",
-            "link": "",
-            "button_text": "Add a button",
-            "second_link": "",
-            "second_button_text": "Button 2 text",
-            "slide_text_color": "#000000",
-            "cta_color": "#ffffff",
-            "cta_background": "#000000",
-            "cta_background_hover": "#ffffff",
-            "caption_background": "#ffffff",
-            "caption_background_opacity": 10
-          }
-        },
         "925e055a-2215-44d1-9e28-12e623cb2b3e": {
           "type": "image",
           "settings": {
@@ -105,7 +80,6 @@
         }
       },
       "block_order": [
-        "720b5288-4c39-4809-a492-3ec8c8076895",
         "925e055a-2215-44d1-9e28-12e623cb2b3e",
         "b79ebd36-bbb0-4d73-84db-0b0e7cc6ea23",
         "dbd7e2f7-8de3-4938-b05c-fb205c319969"
