@@ -3186,6 +3186,10 @@ section.global__newsletter .newsletter__input,
   margin-bottom: 0;
 }
 
+.section-title h1 {
+  font-weight: 600;
+}
+
 /*box*/
 .theme-features__section-titles--box .section-title h1,
 .theme-features__section-titles--box .section-title h2,
