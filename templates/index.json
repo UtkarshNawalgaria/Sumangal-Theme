@@ -61,7 +61,7 @@
             "text_align": "left",
             "caption_horizontal": 0,
             "caption_vertical": 0,
-            "mobile_image": "shopify:\/\/shop_images\/1_eea0b15f-4bcb-4c26-9f36-5f8306eaad87.png",
+            "mobile_image": "shopify:\/\/shop_images\/2_0450f3d3-f474-4c6b-a3aa-e9ff06995f45.png",
             "hide_caption_background": false,
             "caption_below": false,
             "heading": "",
@@ -150,19 +150,6 @@
         ]
       }
     },
-    "166109855761b764f5": {
-      "type": "featured-collection",
-      "settings": {
-        "full_width": false,
-        "title": "SAREES UNDER Rs 10000",
-        "collection": "sarees-under-rs-10000",
-        "carousel": false,
-        "grid": 4,
-        "limit": 4,
-        "color_scheme": "none",
-        "section_padding": "both"
-      }
-    },
     "1625752966582d2e67": {
       "type": "featured-collection",
       "settings": {
@@ -174,6 +161,19 @@
         "limit": 8,
         "color_scheme": "none",
         "section_padding": "none"
+      }
+    },
+    "166109855761b764f5": {
+      "type": "featured-collection",
+      "settings": {
+        "full_width": false,
+        "title": "SAREES UNDER Rs 10000",
+        "collection": "sarees-under-rs-10000",
+        "carousel": false,
+        "grid": 4,
+        "limit": 4,
+        "color_scheme": "none",
+        "section_padding": "both"
       }
     },
     "1659979808167f5952": {
@@ -293,8 +293,8 @@
     "1625752154523bf545",
     "16257529781b844d78",
     "1661028223abed1282",
-    "166109855761b764f5",
     "1625752966582d2e67",
+    "166109855761b764f5",
     "1659979808167f5952",
     "1661238395cdc53d25",
     "16508011074401ef45",
