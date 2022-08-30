@@ -2078,8 +2078,6 @@ a.button, a.button:visited {
   -webkit-border-radius: 3px;
 }
 
-
-
 a.button:hover {
   color: var(--button-text);
   background: var(--button-hover);
@@ -2098,6 +2096,7 @@ input.button-as-link {
   display: inline-block;
   width: auto;
 }
+
 button.button-as-link:hover,
 a.button-as-link:hover,
 input.button-as-link:hover {
@@ -2120,6 +2119,7 @@ form {
 fieldset {
   margin-bottom: 20px;
 }
+
 /* #Forms
 ================================================== */
 form {
@@ -2138,6 +2138,7 @@ input:not('[type=hidden]') {
 
 input::placeholder {
   line-height: inherit;
+  color: #e7e7e7;
 }
 
 input[type="text"],
@@ -2270,8 +2271,6 @@ ul.shopping__cart-links {
   position: relative;
   list-style: none;
   margin-top: 0;
-/*   display: flex;
-  align-items: center; */
   align-self: center;
 }
 
@@ -3037,7 +3036,6 @@ header,
 }
 
 /* ---- Gallery section ---- */
-
 .promo-inner {
   position: relative;
 }
@@ -3070,7 +3068,6 @@ header,
 }
 
 /* ---- Parallax images ---- */
-
 section.parallax {
   overflow: hidden;
 }
@@ -3103,7 +3100,6 @@ section.parallax .row {
 }
 
 /* ---- Newsletter section ---- */
-
 .global__newsletter {
   line-height: 80px;
   padding-left: 15px;
@@ -3298,8 +3294,6 @@ ul.social-icons__wrapper li {
 
 
 /* ---- Image with text section ---- */
-
-
 .image__with-text .text__section,
 .image__with-text .image__section {
   padding: 15px;
@@ -3343,16 +3337,12 @@ ul.social-icons__wrapper li {
   }
 }
 
-
-
 /* ---- Editorial ---- */
-
 .image-column {
     margin-bottom: 20px;
 }
 
 /* ---- Theme image scale features ---- */
-
 .theme-features__zoom-effect--enabled .image-column img,
 .theme-features__zoom-effect--enabled .image__section img,
 .theme-features__zoom-effect--enabled .article-image img,
@@ -3444,17 +3434,18 @@ ul.collection__sidebar-menu.sidebar-menu li {
 }
 
 .collection__sidebar--image-wrapper.image_container svg {
-    background: #eee
+  background: #eee
 }
 
 .collection__sidebar-block {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .collection__sidebar-block .sidebar-filter {
   margin-bottom: 30px;
   padding: 10px;
   border: 1px solid var(--dotted-color);
+  border-radius: 5px;
 }
 
 .collection__page-sidebar h4 {
@@ -3592,12 +3583,12 @@ ul.collection__sidebar-menu.sidebar-menu li {
 }
 
 .sidebar-filter.filter--size ul li a {
-    padding: 6px 8px;
-    min-width: 48px;
-    border: 1px solid var(--dotted-color);
-    display: block;
-    text-align: center;
-    text-transform: capitalize;
+  padding: 6px 8px;
+  min-width: 48px;
+  border: 1px solid var(--dotted-color);
+  display: block;
+  text-align: center;
+  text-transform: capitalize;
 }
 .theme-features__rounded-buttons--enabled .sidebar-filter.filter--size ul li a {
   border-radius: 3px;
@@ -3607,8 +3598,8 @@ ul.collection__sidebar-menu.sidebar-menu li {
 }
 
 .sidebar-filter.filter--size ul li.current a:before {
-    content:"";
-    display: none;
+  content:"";
+  display: none;
 }
 
 .sidebar-filter.filter--size ul li.current a {
@@ -3630,7 +3621,6 @@ ul.collection__sidebar-menu.sidebar-menu li {
 }
 
 @media screen and (min-width: 1120px) {
-
   .sidebar-filter.filter--color ul li:nth-child(odd) {
     margin-right: 8px;
   }
@@ -3655,15 +3645,14 @@ ul.collection__sidebar-menu.sidebar-menu li {
 }
 
 .filter-range__boxes {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
 }
 
 label.filter-range__field__label {
     display: inline-block;
 }
-
 
 .theme-features__rounded-buttons--enabled .filter--price-range .filter-range__field__input {
   border-radius: unset !important;
@@ -3695,11 +3684,11 @@ ul.current_tags li {
 }
 
 ul.current_tags li.current_tag a {
-    background: #f5f5f5;
-    padding: 10px 25px 10px 8px;
-    color: var(--text-color);
-    display: block;
-    position: relative;
+  background: #f5f5f5;
+  padding: 10px 25px 10px 8px;
+  color: var(--text-color);
+  display: block;
+  position: relative;
 }
 
 .theme-features__rounded-buttons--enabled ul.current_tags li.current_tag a {
@@ -3711,14 +3700,14 @@ ul.current_tags li.current_tag a {
 }
 
 ul.current_tags li.current_tag a:after {
-    content: "\00d7";
-    position: absolute;
-    right: 10px;
-    font-size: 14px;
+  content: "\00d7";
+  position: absolute;
+  right: 10px;
+  font-size: 14px;
 }
 
 ul.current_tags li a.clear-tags {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 span.filter__count {
@@ -3759,20 +3748,21 @@ span.filter__count {
 }
 
 .collection__filter-toggleWrapper {
-    border-bottom: 1px solid var(--dotted-color);
-    margin-bottom: 20px;
-    display:grid;
-    grid-template-columns: 6fr 6fr;
-    align-items: center;
-    padding-bottom: 10px;
-    position: relative;
-    z-index: 6;
+  border-bottom: 1px solid var(--dotted-color);
+  margin-bottom: 20px;
+  display:grid;
+  grid-template-columns: 6fr 6fr;
+  align-items: center;
+  padding-bottom: 10px;
+  position: relative;
+  z-index: 6;
 }
 
 #CollectionFiltersForm {
   display: inline-block;
   width: 100%;
 }
+
 .collection__filtering,
 .search__filtering {
   position: relative;
@@ -3780,6 +3770,7 @@ span.filter__count {
   display: inline-block;
   height: 36px;
 }
+
 @media screen and (max-width: 980px) {
   .collection__filtering,
   .search__filtering {
@@ -3814,11 +3805,13 @@ span.filter__count {
   left: 0;
   width: 100%;
 }
+
 .collection__horizontal-toolbar .value-list li [type="checkbox"],
 .search__horizontal-toolbar .value-list li [type="checkbox"],
 .collection__sidebar-block [type="checkbox"] {
   display: none;
 }
+
 .collection__horizontal-toolbar .chosen-value,
 .search__horizontal-toolbar .chosen-value {
   height: 36px;
@@ -3829,14 +3822,17 @@ span.filter__count {
   text-align: left;
   margin-bottom: 0 !important;
 }
+
 .collection__horizontal-toolbar .chosen-value::-webkit-input-placeholder,
 .search__horizontal-toolbar .chosen-value::-webkit-input-placeholder {
   color: var(--text-color);
 }
+
 .collection__horizontal-toolbar .chosen-value:hover,
 .search__horizontal-toolbar .chosen-value:hover {
   cursor: pointer;
 }
+
 .collection__horizontal-toolbar .chosen-value:focus,
 .collection__horizontal-toolbar .chosen-value.open,
 .search__horizontal-toolbar .chosen-value:focus,
@@ -3844,6 +3840,7 @@ span.filter__count {
   box-shadow: 0px 5px 8px 0px rgba(0, 0, 0, 0.2);
   outline: 0;
 }
+
 .collection__horizontal-toolbar .value-list,
 .search__horizontal-toolbar .value-list {
   list-style: none;
@@ -3855,12 +3852,14 @@ span.filter__count {
   z-index: 20;
   background-color: var(--background);
 }
+
 .collection__horizontal-toolbar .value-list.open,
 .search__horizontal-toolbar .value-list.open {
   max-height: 320px;
   overflow: auto;
   padding: 10px 0;
 }
+
 .collection__horizontal-toolbar .value-list li,
 .search__horizontal-toolbar .value-list li {
   position: relative;
@@ -3873,6 +3872,7 @@ span.filter__count {
   opacity: 1;
   line-height: initial;
 }
+
 .collection__horizontal-toolbar .value-list li.closed,
 .search__horizontal-toolbar .value-list li.closed {
   max-height: 0;
@@ -3880,6 +3880,7 @@ span.filter__count {
   padding: 0;
   opacity: 0;
 }
+
 .collection__horizontal-toolbar .filter--regular .value-list li:before,
 .collection__horizontal-toolbar .filter--size .value-list li:before,
 .search__horizontal-toolbar .filter--regular .value-list li:before,
@@ -3894,18 +3895,21 @@ span.filter__count {
   border: 1px solid #fff;
   box-shadow: 0 0 0 1px #ddd;
 }
+
 .collection__horizontal-toolbar .filter--regular .value-list li.current:before,
 .collection__horizontal-toolbar .filter--size .value-list li.current:before,
 .search__horizontal-toolbar .filter--regular .value-list li.current:before,
 .search__horizontal-toolbar .filter--size .value-list li.current:before {
   background: var(--text-color);
 }
+
 .collection__horizontal-toolbar .filter--regular .value-list li:hover:before,
 .collection__horizontal-toolbar .filter--size .value-list li:hover:before,
 .search__horizontal-toolbar .filter--regular .value-list li:hover:before,
 .search__horizontal-toolbar .filter--size .value-list li:hover:before {
   background: var(--text-color);
 }
+
 .collection__horizontal-toolbar .color-filter,
 .search__horizontal-toolbar .color-filter {
   min-width: var(--color-filter-size, 34px) !important;
@@ -4003,6 +4007,7 @@ span.filter__count {
   padding-left: 0;
   text-indent: 17px;
 }
+
 .collection__filter-toggle--icon {
   margin-left: 5px;
 }
