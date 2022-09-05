@@ -3,29 +3,29 @@
     "1625752154523bf545": {
       "type": "slideshow",
       "blocks": {
-        "720b5288-4c39-4809-a492-3ec8c8076895": {
+        "94cb3676-22af-41ba-9251-a0c8b96a8702": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_22.png",
             "overlay": false,
             "text_align": "left",
-            "caption_horizontal": 0,
+            "caption_horizontal": 50,
             "caption_vertical": 50,
-            "mobile_image": "shopify:\/\/shop_images\/Sumangal_New_Website_Banners_1800_x_800_px_1080_x_1080_px.png",
+            "mobile_image": "shopify:\/\/shop_images\/Untitled_design_22.png",
             "hide_caption_background": false,
             "caption_below": false,
             "heading": "",
             "subheading": "",
             "link": "",
-            "button_text": "Add a button",
+            "button_text": "",
             "second_link": "",
-            "second_button_text": "Button 2 text",
+            "second_button_text": "",
             "slide_text_color": "#000000",
             "cta_color": "#ffffff",
             "cta_background": "#000000",
-            "cta_background_hover": "#ffffff",
-            "caption_background": "#ffffff",
-            "caption_background_opacity": 10
+            "cta_background_hover": "#000000",
+            "caption_background": "transparent",
+            "caption_background_opacity": 20
           }
         },
         "925e055a-2215-44d1-9e28-12e623cb2b3e": {
@@ -36,7 +36,7 @@
             "text_align": "left",
             "caption_horizontal": 50,
             "caption_vertical": 50,
-            "mobile_image": "shopify:\/\/shop_images\/3_f8fa6d90-ae15-4024-9eac-45cfcdb6bdeb.png",
+            "mobile_image": "shopify:\/\/shop_images\/4_0433cae6-5241-4845-8094-7b517e5b1781.png",
             "hide_caption_background": false,
             "caption_below": false,
             "heading": "",
@@ -56,18 +56,18 @@
         "b79ebd36-bbb0-4d73-84db-0b0e7cc6ea23": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_7d8f275a-ca2e-46cf-bb4e-5017b5e69533.png",
+            "image": "shopify:\/\/shop_images\/Banarasi_Sarees_bc3d0806-17b2-4a7e-abb4-8efecbd7769d.png",
             "overlay": false,
             "text_align": "left",
             "caption_horizontal": 0,
             "caption_vertical": 0,
-            "mobile_image": "shopify:\/\/shop_images\/2_16243c28-3821-4299-80de-6647ea2febb2.png",
+            "mobile_image": "shopify:\/\/shop_images\/Banarasi_Sarees_bc3d0806-17b2-4a7e-abb4-8efecbd7769d.png",
             "hide_caption_background": false,
             "caption_below": false,
             "heading": "",
             "subheading": "",
-            "link": "",
-            "button_text": "Add a button",
+            "link": "shopify:\/\/collections\/banarasi-sarees",
+            "button_text": "",
             "second_link": "",
             "second_button_text": "Button 2 text",
             "slide_text_color": "#000000",
@@ -86,7 +86,7 @@
             "text_align": "left",
             "caption_horizontal": 0,
             "caption_vertical": 0,
-            "mobile_image": "shopify:\/\/shop_images\/1_eea0b15f-4bcb-4c26-9f36-5f8306eaad87.png",
+            "mobile_image": "shopify:\/\/shop_images\/2_0450f3d3-f474-4c6b-a3aa-e9ff06995f45.png",
             "hide_caption_background": false,
             "caption_below": false,
             "heading": "",
@@ -105,7 +105,7 @@
         }
       },
       "block_order": [
-        "720b5288-4c39-4809-a492-3ec8c8076895",
+        "94cb3676-22af-41ba-9251-a0c8b96a8702",
         "925e055a-2215-44d1-9e28-12e623cb2b3e",
         "b79ebd36-bbb0-4d73-84db-0b0e7cc6ea23",
         "dbd7e2f7-8de3-4938-b05c-fb205c319969"
@@ -176,19 +176,6 @@
         ]
       }
     },
-    "166109855761b764f5": {
-      "type": "featured-collection",
-      "settings": {
-        "full_width": false,
-        "title": "SAREES UNDER Rs 10000",
-        "collection": "sarees-under-rs-10000",
-        "carousel": false,
-        "grid": 4,
-        "limit": 4,
-        "color_scheme": "none",
-        "section_padding": "both"
-      }
-    },
     "1625752966582d2e67": {
       "type": "featured-collection",
       "settings": {
@@ -200,6 +187,19 @@
         "limit": 8,
         "color_scheme": "none",
         "section_padding": "none"
+      }
+    },
+    "166109855761b764f5": {
+      "type": "featured-collection",
+      "settings": {
+        "full_width": false,
+        "title": "SAREES UNDER Rs 10000",
+        "collection": "sarees-under-rs-10000",
+        "carousel": false,
+        "grid": 4,
+        "limit": 4,
+        "color_scheme": "none",
+        "section_padding": "both"
       }
     },
     "1659979808167f5952": {
@@ -319,8 +319,8 @@
     "1625752154523bf545",
     "16257529781b844d78",
     "1661028223abed1282",
-    "166109855761b764f5",
     "1625752966582d2e67",
+    "166109855761b764f5",
     "1659979808167f5952",
     "1661238395cdc53d25",
     "16508011074401ef45",
