@@ -34,7 +34,7 @@
       <a href="/products/{{ product.handle }}" title="{{ product.title | escape }}" target="_blank">
         <div class="reveal">
           {%- assign preview_image = product.featured_media.preview_image -%}
-          {% render "basic-responsive-image", type: preview_image, data_widths: '[180, 360, 540, 720, 900, 1080]' %}
+          {% render "basic-responsive-image", type: preview_image, data_widths: '[180, 360]', lazyload: true %}
           <noscript>
             <img src="{{ product.featured_media.preview_image | img_url: '1024x' }}" alt="{{ product.featured_media.preview_image.alt | escape }}">
           </noscript>

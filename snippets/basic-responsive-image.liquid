@@ -8,8 +8,7 @@
       data-src="{{ img_url }}"
       data-sizes="auto"
       {%- if data_widths != blank -%}data-widths="{{ data_widths }}"{%- endif -%}
-      width="{{ type.width }}"
-      height="{{ type.height }}"
+      {% if lazyload == true %}loading="lazy"{% endif %}
       alt="{{ type.alt | escape }}">
   </div>
 {%- endif -%}
