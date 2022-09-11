@@ -3,31 +3,6 @@
     "1625752154523bf545": {
       "type": "slideshow",
       "blocks": {
-        "94cb3676-22af-41ba-9251-a0c8b96a8702": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_22.png",
-            "overlay": false,
-            "text_align": "left",
-            "caption_horizontal": 50,
-            "caption_vertical": 50,
-            "mobile_image": "shopify:\/\/shop_images\/Untitled_design_22.png",
-            "hide_caption_background": false,
-            "caption_below": false,
-            "heading": "",
-            "subheading": "",
-            "link": "",
-            "button_text": "",
-            "second_link": "",
-            "second_button_text": "",
-            "slide_text_color": "#000000",
-            "cta_color": "#ffffff",
-            "cta_background": "#000000",
-            "cta_background_hover": "#000000",
-            "caption_background": "transparent",
-            "caption_background_opacity": 20
-          }
-        },
         "925e055a-2215-44d1-9e28-12e623cb2b3e": {
           "type": "image",
           "settings": {
@@ -105,7 +80,6 @@
         }
       },
       "block_order": [
-        "94cb3676-22af-41ba-9251-a0c8b96a8702",
         "925e055a-2215-44d1-9e28-12e623cb2b3e",
         "b79ebd36-bbb0-4d73-84db-0b0e7cc6ea23",
         "dbd7e2f7-8de3-4938-b05c-fb205c319969"
