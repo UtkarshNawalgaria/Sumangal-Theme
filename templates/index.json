@@ -95,6 +95,11 @@
         "section_padding": "bottom"
       }
     },
+    "16630024614e6be009": {
+      "type": "customer-information",
+      "settings": {
+      }
+    },
     "16257529781b844d78": {
       "type": "collection-list",
       "blocks": {
@@ -291,6 +296,7 @@
   },
   "order": [
     "1625752154523bf545",
+    "16630024614e6be009",
     "16257529781b844d78",
     "1661028223abed1282",
     "1625752966582d2e67",
