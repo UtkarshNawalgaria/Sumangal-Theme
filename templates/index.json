@@ -292,6 +292,19 @@
         "full_width": false,
         "section_padding": "both"
       }
+    },
+    "1663005608a9a89489": {
+      "type": "featured-collection",
+      "settings": {
+        "full_width": false,
+        "title": "Designer - Cupid Cotton",
+        "collection": "cupid-cotton",
+        "carousel": true,
+        "grid": 4,
+        "limit": 8,
+        "color_scheme": "none",
+        "section_padding": "both"
+      }
     }
   },
   "order": [
@@ -304,6 +317,7 @@
     "1659979808167f5952",
     "1661238395cdc53d25",
     "16508011074401ef45",
-    "1655372716d878bc46"
+    "1655372716d878bc46",
+    "1663005608a9a89489"
   ]
 }
