@@ -230,7 +230,7 @@
       ],
       "settings": {
         "full_width": false,
-        "title": "PRODUCTS BY FABRIC",
+        "title": "SHOP BY FABRIC",
         "grid": 4,
         "color_scheme": "none",
         "section_padding": "both"
@@ -272,7 +272,7 @@
       ],
       "settings": {
         "full_width": false,
-        "title": "PRODUCTS BY OCCASION",
+        "title": "SHOP BY OCCASION",
         "grid": 4,
         "color_scheme": "cs1",
         "section_padding": "both"
