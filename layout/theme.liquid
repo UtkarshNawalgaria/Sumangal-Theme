@@ -1,14 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js" lang="{{ request.locale.iso_code }}">
 <head>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5WWNQ6CE9"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-  
-    gtag('config', 'G-Y5WWNQ6CE9');
-  </script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -67,6 +59,7 @@
 
   {% capture cur %}{% include "booster-currency" %}{% endcapture %}{% unless cur contains "Liquid error" %}{{ cur }}{% endunless %}
   {% render 'judgeme_core' %}
+  {% render 'google-analytics' %}
 </head>
 <body class="gridlock template-{{ template | handleize }} js-slideout-toggle-wrapper js-modal-toggle-wrapper {% render 'body-classes' %}">
   <div class="js-slideout-overlay site-overlay"></div>
