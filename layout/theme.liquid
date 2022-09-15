@@ -139,23 +139,23 @@
   </div><!-- /.site-wrap -->
 
   {%- if settings.cart_type == 'drawer' -%}
-  <aside class="slideout slideout__drawer-right mini-cart" data-wau-slideout="ajax-cart" id="slideout-ajax-cart">
-    {% render 'cart-mini' %}
-  </aside>
-  {% elsif settings.cart_type == 'modal_cart' %}
-  <div class="modal__container" data-wau-modal="ajax-cart" id="modal-ajax-cart">
-    <div class="modal__inner-wrapper">
+    <aside class="slideout slideout__drawer-right mini-cart" data-wau-slideout="ajax-cart" id="slideout-ajax-cart">
       {% render 'cart-mini' %}
+    </aside>
+  {% elsif settings.cart_type == 'modal_cart' %}
+    <div class="modal__container" data-wau-modal="ajax-cart" id="modal-ajax-cart">
+      <div class="modal__inner-wrapper">
+        {% render 'cart-mini' %}
+      </div>
     </div>
-  </div>
   {%- endif -%}
   {%- if settings.quickview -%}
-  <div class="modal__container" data-wau-modal="quickview" id="modal-quickview-cart">
-    <div class="modal__inner-wrapper">
-      {%- render 'product-quickview' -%}
+    <div class="modal__container" data-wau-modal="quickview" id="modal-quickview-cart">
+      <div class="modal__inner-wrapper">
+        {%- render 'product-quickview' -%}
+      </div>
     </div>
-  </div>
-{%- endif -%}
+  {%- endif -%}
 
   {% render 'cart-config' %}
   <script src="{{ 'eventemitter3.min.js' | asset_url }}"></script>
@@ -244,6 +244,6 @@
 
   <script>
    AOS.init();
- </script>
+  </script>
 </body>
 </html>
