@@ -213,9 +213,7 @@ data-initial-variant="{{ current_variant.featured_media.id }}">
                       <div class="clear"></div>
                     {% endif %}
 					
-                  
                     {% render 'product-price', variant: current_variant, product: product show_saved_amount: show_saved_amount, show_sale_badge: show_sale_badge %}
-
                     
                     {% assign collections = product.collections | map: "title" %}
                     {% if collections contains "Indo Western" %}
