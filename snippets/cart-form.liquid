@@ -240,11 +240,13 @@
           </ul>
         {% endif %}
       </ul>
+        {% comment %}
         {% if settings.show_shipping_countdown %}
           <div class="ajax-cart__free-shipping">
             {% render 'cart-shipping-countdown', cart %}
           </div>
         {% endif %}
+        {% endcomment %}
     </div>
     <div class="ajax-cart__summary-wrapper {% if cart.item_count < 1 %}hide{% endif %} js-cart-summary">
       <div class="ajax-cart__final-details">
