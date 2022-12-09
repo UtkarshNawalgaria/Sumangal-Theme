@@ -6,7 +6,7 @@
         "925e055a-2215-44d1-9e28-12e623cb2b3e": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_0433cae6-5241-4845-8094-7b517e5b1781.png",
+            "image": "shopify:\/\/shop_images\/13.png",
             "overlay": false,
             "text_align": "left",
             "caption_horizontal": 50,
@@ -16,7 +16,7 @@
             "caption_below": false,
             "heading": "",
             "subheading": "",
-            "link": "shopify:\/\/collections\/bridesmaid-essentials",
+            "link": "shopify:\/\/collections\/banarasi-sarees",
             "button_text": "",
             "second_link": "",
             "second_button_text": "",
@@ -98,7 +98,7 @@
             "cta_color": "#ffffff",
             "cta_background": "#000000",
             "cta_background_hover": "#000000",
-            "caption_background": "transparent",
+            "caption_background": "rgba(0,0,0,0)",
             "caption_background_opacity": 20
           }
         }
