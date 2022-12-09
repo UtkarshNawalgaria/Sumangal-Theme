@@ -36,7 +36,7 @@
             "text_align": "left",
             "caption_horizontal": 0,
             "caption_vertical": 0,
-            "mobile_image": "shopify:\/\/shop_images\/Banarasi_Sarees_bc3d0806-17b2-4a7e-abb4-8efecbd7769d.png",
+            "mobile_image": "shopify:\/\/shop_images\/14.png",
             "hide_caption_background": false,
             "caption_below": false,
             "heading": "",
@@ -81,11 +81,12 @@
         "a2e94b13-33f1-4be4-bf26-c1d1e261edca": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/diwali.jpg",
+            "image": "shopify:\/\/shop_images\/17.png",
             "overlay": false,
             "text_align": "left",
             "caption_horizontal": 50,
             "caption_vertical": 50,
+            "mobile_image": "shopify:\/\/shop_images\/17.png",
             "hide_caption_background": false,
             "caption_below": false,
             "heading": "",
