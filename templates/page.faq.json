@@ -15,6 +15,7 @@
         "scale": 2,
         "page_height": 300,
         "title": "FAQ Page",
+        "use_h1": true,
         "subheading": "",
         "button_text": "Button",
         "link": "",
@@ -35,8 +36,8 @@
         "accordion-0": {
           "type": "panel",
           "settings": {
-            "heading": "How can I know more about my saree\/fabric?",
-            "content": "<p>If you would like to know about the fabric\/weave\/pattern of a saree in detail, please go through the product description on our website. You can also get in touch with us if you would like to know more, through the following channels:<br\/><br\/><br\/>Email us on sales@sumangalekam.inCall\/SMS\/WhatsApp on +919167449295Direct Message us on Facebook or Instagram<br\/><br\/><br\/>We will try to respond to your query as promptly as we can.<\/p>"
+            "heading": "Will I receive Quality products from Sumangal Banaras",
+            "content": "<p>With 50+ Years of legacy, we adhere to strict quality and design benchmarks. Every Sumangal Banaras product goes through Quality Control process to ensure that you receivethe best. Every product has its own HSN code to prove its genuinity.<\/p>"
           }
         },
         "accordion-1": {
@@ -52,12 +53,20 @@
             "heading": "How do I take care of my saree?",
             "content": "<p>We recommend that you dry clean your saree only when necessary. You must air your saree from time to time and refold regularly to avoid creasing at the same location over an extended period of time. Kora sarees or fine Jamdanis can also be rolled for storage.<\/p><p>It is also advisable to store silk sarees in a breathable, uncoloured, muslin cloth in a dry location. Avoid exposure to moisture as it may damage the saree or the zari. Also avoid ironing directly on the zari and any direct contact with perfume.<\/p>"
           }
+        },
+        "44d1f96c-f4be-4bc9-ab72-26dfcbccd5a5": {
+          "type": "panel",
+          "settings": {
+            "heading": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
         }
       },
       "block_order": [
         "accordion-0",
         "accordion-1",
-        "accordion-2"
+        "accordion-2",
+        "44d1f96c-f4be-4bc9-ab72-26dfcbccd5a5"
       ],
       "settings": {
         "heading": "Product",
