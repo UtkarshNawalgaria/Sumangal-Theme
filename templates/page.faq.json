@@ -43,22 +43,71 @@
         "accordion-1": {
           "type": "panel",
           "settings": {
-            "heading": "How does the saree look in real?",
-            "content": "<p>Like the peacock’s feathers, silk fiber also has a very unique luster due to its physical and chemical structures which enhances reflection of light. The photographs on the website, shot by the best cameras, are taken outdoors in natural daylight and posted without any editing to give the most accurate look.<\/p><p>If you have any doubts, please feel free to request us for additional photos in indoor lights. However for indoor pictures, multiple factors such as angle of photograph, type of light (white, yellow or natural), composition of the fabric effect the colours as captured in the photographs, which may occasionally result in minor variations.<\/p>"
+            "heading": "What is HSN Code ?",
+            "content": "<p>HSN code stands for “Harmonized System of Nomenclature”. This system has beenintroduced for the systematic classification of goods all over the world.<\/p><p>HSM code is a 6-digituniform code that classifies 5000+ products and is accepted worldwide.<\/p>"
           }
         },
         "accordion-2": {
           "type": "panel",
           "settings": {
-            "heading": "How do I take care of my saree?",
-            "content": "<p>We recommend that you dry clean your saree only when necessary. You must air your saree from time to time and refold regularly to avoid creasing at the same location over an extended period of time. Kora sarees or fine Jamdanis can also be rolled for storage.<\/p><p>It is also advisable to store silk sarees in a breathable, uncoloured, muslin cloth in a dry location. Avoid exposure to moisture as it may damage the saree or the zari. Also avoid ironing directly on the zari and any direct contact with perfume.<\/p>"
+            "heading": "I am not able to place my order.",
+            "content": "<p>We are sorry you're facing hiccups while placing the order. Here are some options:<\/p><p>Get in touch with our fashion advisor or book a video call appointment: <strong>8795663333<\/strong><\/p><p>OR<\/p><p>Email us at: <strong>sales@sumangalbanaras.com<\/strong><\/p><p>Your issues will be resolved swiftly by our team.<\/p>"
           }
         },
         "44d1f96c-f4be-4bc9-ab72-26dfcbccd5a5": {
           "type": "panel",
           "settings": {
-            "heading": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "heading": "Can I place an order for a Sold-out product ?",
+            "content": "<p>For soldout products, if you're registered with us, add those products to your wishlist.<\/p><p>Also, you can fill the form on the product page to let us know you are interested in the product and we will get back to you when the product is available<\/p>"
+          }
+        },
+        "f42f64b4-a6b0-43de-be44-3545639df623": {
+          "type": "panel",
+          "settings": {
+            "heading": "My Delivery\/Pickup has not arrived",
+            "content": "<p>We’re sorry to hear that! In case your pick-up has not arrived at the scheduled hour,please drop a mail at: <span style=\"text-decoration:underline\"><strong>sales@sumangalbanaras.com<\/strong><\/span>.<\/p><p>With your order ID and our team will get back to you regarding the status or reschedule aconvenient time for you.<\/p>"
+          }
+        },
+        "68de6cb6-e5d6-4581-a040-5ac59ee21623": {
+          "type": "panel",
+          "settings": {
+            "heading": "I am happy with your service, where do I write my review ?",
+            "content": "<p>You can review us at:<\/p><p>1. Google Maps: <a href=\"https:\/\/goo.gl\/maps\/npPH4oUKZMxFDkVA6\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/npPH4oUKZMxFDkVA6\">https:\/\/goo.gl\/maps\/npPH4oUKZMxFDkVA6<\/a><\/p><p>2. On our website at the left down corner.<\/p>"
+          }
+        },
+        "ae94e1f5-1b3d-408d-8507-d12b8dfd569f": {
+          "type": "panel",
+          "settings": {
+            "heading": "Who do I contact if I face any payment issues ?",
+            "content": "<p>If you face any issues regarding payment,<\/p><p>Inform us within 48 hrs of the payment via call at: 8795663333<\/p><p>OR<\/p><p>Email us at <strong>sales@sumangalbanaras.com<\/strong><\/p>"
+          }
+        },
+        "9d33d866-f6dd-4b68-8217-11b591c00d15": {
+          "type": "panel",
+          "settings": {
+            "heading": "What are the delivery charges for National Orders ?",
+            "content": "<p>Delivery charges for each product depends on multiple factors, such as the weight of the product, location of the delivery. <\/p><p>We can ensure you that the prices would be fair.<\/p>"
+          }
+        },
+        "730b94b4-f9cb-409d-978d-323009cb1231": {
+          "type": "panel",
+          "settings": {
+            "heading": "What are the delivery charges for International Orders ?",
+            "content": "<p>VAT\/Custom, Taxes and Import duties are not included in our ordering process but may be charged to you by your Government. They are entirely your responsibility.<\/p>"
+          }
+        },
+        "8d852147-6798-42f5-be16-a5598c415107": {
+          "type": "panel",
+          "settings": {
+            "heading": "How long will it take my order to be delivered ?",
+            "content": "<p>The dispatch time for your order has been mentioned on individual product pages. We will ensure the timely, fast and secure dispatch of your order.<\/p>"
+          }
+        },
+        "ec2866ac-b249-49f7-bb8f-2e5ba42fb2e3": {
+          "type": "panel",
+          "settings": {
+            "heading": "Do you offer Cash On Delivery ?",
+            "content": "<p>Yes, we offer Cash On Delivery. This is contingent on the total amount of your order.<\/p>"
           }
         }
       },
@@ -66,7 +115,14 @@
         "accordion-0",
         "accordion-1",
         "accordion-2",
-        "44d1f96c-f4be-4bc9-ab72-26dfcbccd5a5"
+        "44d1f96c-f4be-4bc9-ab72-26dfcbccd5a5",
+        "f42f64b4-a6b0-43de-be44-3545639df623",
+        "68de6cb6-e5d6-4581-a040-5ac59ee21623",
+        "ae94e1f5-1b3d-408d-8507-d12b8dfd569f",
+        "9d33d866-f6dd-4b68-8217-11b591c00d15",
+        "730b94b4-f9cb-409d-978d-323009cb1231",
+        "8d852147-6798-42f5-be16-a5598c415107",
+        "ec2866ac-b249-49f7-bb8f-2e5ba42fb2e3"
       ],
       "settings": {
         "heading": "Product",
@@ -77,18 +133,18 @@
     "16422346551f0ad6ff": {
       "type": "accordion",
       "blocks": {
-        "16422346552850697b-0": {
-          "type": "panel",
-          "settings": {
-            "heading": "Your website is showing the price in rupees, how much will it cost in foreign currencies?",
-            "content": "<p>We have a Currency Converter on our website. You can use that to check the price of the product in your desired curreny. The Currencies that we support are shown over there.<\/p>"
-          }
-        },
         "16422346552850697b-1": {
           "type": "panel",
           "settings": {
             "heading": "The payment page is redirecting me to a different website. Is it safe to go ahead with my Payment?",
             "content": "<p>The payment page will not redirect you to a new website page. When you finish your checkout and continue to the payment, based on the mode of payment, you may see different pages.<\/p><p>1. <strong>Razorpay<\/strong> - If you choose razorpay as your payment option, you will be shown a modal where you can enter your payment details safely and without any concern.<\/p><p>2. <strong>Cash On Delivery<\/strong> - For COD orders, you will be shown your final order thank you page, confirming we have gotten you order. you won't be asked to do anything else.<\/p>"
+          }
+        },
+        "16422346552850697b-0": {
+          "type": "panel",
+          "settings": {
+            "heading": "Your website is showing the price in rupees, how much will it cost in foreign currencies?",
+            "content": "<p>We have a Currency Converter on our website. You can use that to check the price of the product in your desired curreny. The Currencies that we support are shown over there.<\/p>"
           }
         },
         "16422346552850697b-2": {
@@ -100,8 +156,8 @@
         }
       },
       "block_order": [
-        "16422346552850697b-0",
         "16422346552850697b-1",
+        "16422346552850697b-0",
         "16422346552850697b-2"
       ],
       "settings": {
