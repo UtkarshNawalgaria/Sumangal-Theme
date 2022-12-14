@@ -86,14 +86,14 @@
           "type": "panel",
           "settings": {
             "heading": "What are the delivery charges for National Orders ?",
-            "content": "<p>Delivery charges for each product depends on multiple factors, such as the weight of the product, location of the delivery. <\/p><p>We can ensure you that the prices would be fair.<\/p>"
+            "content": "<p>We provide free delivery across all domestic Orders within India<\/p>"
           }
         },
         "730b94b4-f9cb-409d-978d-323009cb1231": {
           "type": "panel",
           "settings": {
             "heading": "What are the delivery charges for International Orders ?",
-            "content": "<p>VAT\/Custom, Taxes and Import duties are not included in our ordering process but may be charged to you by your Government. They are entirely your responsibility.<\/p>"
+            "content": "<p>The shipping charges will be calculated at the time of placing the order. Other duties such as VAT\/Customs, Taxes and import duties are not included in our ordering process but may be charged to you by your government. They are entirely your responsibility<\/p>"
           }
         },
         "8d852147-6798-42f5-be16-a5598c415107": {
@@ -107,7 +107,7 @@
           "type": "panel",
           "settings": {
             "heading": "Do you offer Cash On Delivery ?",
-            "content": "<p>Yes, we offer Cash On Delivery. This is contingent on the total amount of your order.<\/p>"
+            "content": "<p>Yes, we offer Cash On Delivery on all domestic orders within India. For International orders, we only take prepaid orders.<\/p>"
           }
         }
       },
