@@ -344,69 +344,6 @@
         "full_width": false,
         "section_padding": "both"
       }
-    },
-    "01406cc5-465c-408f-ba6a-410af0020ffe": {
-      "type": "editorial-columns",
-      "blocks": {
-        "template--15750141444286__01406cc5-465c-408f-ba6a-410af0020ffe-1671551947aeb67de8-0": {
-          "type": "image",
-          "settings": {
-            "image_width": "33%",
-            "heading": "Our collections",
-            "rich_text": "<p>Enter text to accompany your image.<\/p>",
-            "button": "Explore",
-            "link": "",
-            "text_align": "left"
-          }
-        },
-        "template--15750141444286__01406cc5-465c-408f-ba6a-410af0020ffe-1671551947aeb67de8-1": {
-          "type": "image",
-          "settings": {
-            "image_width": "33%",
-            "heading": "Our collections",
-            "rich_text": "<p>Enter text to accompany your image.<\/p>",
-            "button": "Explore",
-            "link": "",
-            "text_align": "left"
-          }
-        },
-        "template--15750141444286__01406cc5-465c-408f-ba6a-410af0020ffe-1671551947aeb67de8-2": {
-          "type": "image",
-          "settings": {
-            "image_width": "33%",
-            "heading": "Our collections",
-            "rich_text": "<p>Enter text to accompany your image.<\/p>",
-            "button": "Explore",
-            "link": "",
-            "text_align": "left"
-          }
-        },
-        "46dbc551-def0-4607-919b-7404f6532494": {
-          "type": "image",
-          "settings": {
-            "image_width": "33%",
-            "heading": "Our collections",
-            "rich_text": "<p>Enter text to accompany your image.<\/p>",
-            "button": "Explore",
-            "link": "",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "template--15750141444286__01406cc5-465c-408f-ba6a-410af0020ffe-1671551947aeb67de8-0",
-        "template--15750141444286__01406cc5-465c-408f-ba6a-410af0020ffe-1671551947aeb67de8-1",
-        "template--15750141444286__01406cc5-465c-408f-ba6a-410af0020ffe-1671551947aeb67de8-2",
-        "46dbc551-def0-4607-919b-7404f6532494"
-      ],
-      "settings": {
-        "full_width": false,
-        "title": "Welcome",
-        "heading_size": 24,
-        "text_size": 14,
-        "color_scheme": "none",
-        "section_padding": "both"
-      }
     }
   },
   "order": [
@@ -419,7 +356,6 @@
     "1659979808167f5952",
     "1661238395cdc53d25",
     "16508011074401ef45",
-    "1655372716d878bc46",
-    "01406cc5-465c-408f-ba6a-410af0020ffe"
+    "1655372716d878bc46"
   ]
 }
