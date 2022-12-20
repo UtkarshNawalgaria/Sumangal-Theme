@@ -3,6 +3,31 @@
     "1625752154523bf545": {
       "type": "slideshow",
       "blocks": {
+        "b79ebd36-bbb0-4d73-84db-0b0e7cc6ea23": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/end_of_year_sale_banner.jpg",
+            "overlay": false,
+            "text_align": "left",
+            "caption_horizontal": 0,
+            "caption_vertical": 0,
+            "mobile_image": "shopify:\/\/shop_images\/2_004f1bdb-8dcc-4c93-98f7-399a29bd1ad2.png",
+            "hide_caption_background": false,
+            "caption_below": false,
+            "heading": "",
+            "subheading": "",
+            "link": "shopify:\/\/collections\/banarasi-sarees",
+            "button_text": "",
+            "second_link": "",
+            "second_button_text": "Button 2 text",
+            "slide_text_color": "#000000",
+            "cta_color": "#ffffff",
+            "cta_background": "#000000",
+            "cta_background_hover": "#000000",
+            "caption_background": "{{ shop.brand.colors.primary[0].background }}",
+            "caption_background_opacity": 10
+          }
+        },
         "925e055a-2215-44d1-9e28-12e623cb2b3e": {
           "type": "image",
           "settings": {
@@ -51,31 +76,6 @@
             "cta_background_hover": "#000000",
             "caption_background": "rgba(0,0,0,0)",
             "caption_background_opacity": 20
-          }
-        },
-        "b79ebd36-bbb0-4d73-84db-0b0e7cc6ea23": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_9694f1a5-4687-4ab6-bd70-f0c8d1642336.png",
-            "overlay": false,
-            "text_align": "left",
-            "caption_horizontal": 0,
-            "caption_vertical": 0,
-            "mobile_image": "shopify:\/\/shop_images\/2_004f1bdb-8dcc-4c93-98f7-399a29bd1ad2.png",
-            "hide_caption_background": false,
-            "caption_below": false,
-            "heading": "",
-            "subheading": "",
-            "link": "shopify:\/\/collections\/banarasi-sarees",
-            "button_text": "",
-            "second_link": "",
-            "second_button_text": "Button 2 text",
-            "slide_text_color": "#000000",
-            "cta_color": "#ffffff",
-            "cta_background": "#000000",
-            "cta_background_hover": "#000000",
-            "caption_background": "{{ shop.brand.colors.primary[0].background }}",
-            "caption_background_opacity": 10
           }
         },
         "dbd7e2f7-8de3-4938-b05c-fb205c319969": {
@@ -130,9 +130,9 @@
         }
       },
       "block_order": [
+        "b79ebd36-bbb0-4d73-84db-0b0e7cc6ea23",
         "925e055a-2215-44d1-9e28-12e623cb2b3e",
         "a2e94b13-33f1-4be4-bf26-c1d1e261edca",
-        "b79ebd36-bbb0-4d73-84db-0b0e7cc6ea23",
         "dbd7e2f7-8de3-4938-b05c-fb205c319969",
         "f15dfd33-6fb2-4c40-8f78-cbd26536a433"
       ],
