@@ -152,6 +152,48 @@
       "settings": {
       }
     },
+    "1661238395cdc53d25": {
+      "type": "collection-list",
+      "blocks": {
+        "16612383952e9a9005-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bridesmaid-essentials"
+          }
+        },
+        "16612383952e9a9005-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "wedding-wishes"
+          }
+        },
+        "16612383952e9a9005-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "contemporary-classics"
+          }
+        },
+        "ffa59a92-4d3b-4dd2-ba7b-9a87696c1984": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "chic-casuals"
+          }
+        }
+      },
+      "block_order": [
+        "16612383952e9a9005-0",
+        "16612383952e9a9005-1",
+        "16612383952e9a9005-2",
+        "ffa59a92-4d3b-4dd2-ba7b-9a87696c1984"
+      ],
+      "settings": {
+        "full_width": false,
+        "title": "SHOP BY OCCASION",
+        "grid": 4,
+        "color_scheme": "cs1",
+        "section_padding": "both"
+      }
+    },
     "16257529781b844d78": {
       "type": "collection-list",
       "blocks": {
@@ -275,48 +317,6 @@
         "section_padding": "both"
       }
     },
-    "1661238395cdc53d25": {
-      "type": "collection-list",
-      "blocks": {
-        "16612383952e9a9005-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bridesmaid-essentials"
-          }
-        },
-        "16612383952e9a9005-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "wedding-wishes"
-          }
-        },
-        "16612383952e9a9005-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "contemporary-classics"
-          }
-        },
-        "ffa59a92-4d3b-4dd2-ba7b-9a87696c1984": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "chic-casuals"
-          }
-        }
-      },
-      "block_order": [
-        "16612383952e9a9005-0",
-        "16612383952e9a9005-1",
-        "16612383952e9a9005-2",
-        "ffa59a92-4d3b-4dd2-ba7b-9a87696c1984"
-      ],
-      "settings": {
-        "full_width": false,
-        "title": "SHOP BY OCCASION",
-        "grid": 4,
-        "color_scheme": "cs1",
-        "section_padding": "both"
-      }
-    },
     "16508011074401ef45": {
       "type": "apps",
       "blocks": {
@@ -349,12 +349,12 @@
   "order": [
     "1625752154523bf545",
     "16630024614e6be009",
+    "1661238395cdc53d25",
     "16257529781b844d78",
     "1661028223abed1282",
     "1625752966582d2e67",
     "166109855761b764f5",
     "1659979808167f5952",
-    "1661238395cdc53d25",
     "16508011074401ef45",
     "1655372716d878bc46"
   ]
