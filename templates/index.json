@@ -194,6 +194,19 @@
         "section_padding": "both"
       }
     },
+    "1625752966582d2e67": {
+      "type": "featured-collection",
+      "settings": {
+        "full_width": false,
+        "title": "BEST SELLING PRODUCTS",
+        "collection": "latest-products",
+        "carousel": false,
+        "grid": 4,
+        "limit": 8,
+        "color_scheme": "none",
+        "section_padding": "none"
+      }
+    },
     "16257529781b844d78": {
       "type": "collection-list",
       "blocks": {
@@ -247,19 +260,6 @@
           "unstitched-suits",
           "dupattas"
         ]
-      }
-    },
-    "1625752966582d2e67": {
-      "type": "featured-collection",
-      "settings": {
-        "full_width": false,
-        "title": "BEST SELLING PRODUCTS",
-        "collection": "latest-products",
-        "carousel": false,
-        "grid": 4,
-        "limit": 8,
-        "color_scheme": "none",
-        "section_padding": "none"
       }
     },
     "166109855761b764f5": {
@@ -350,9 +350,9 @@
     "1625752154523bf545",
     "16630024614e6be009",
     "1661238395cdc53d25",
+    "1625752966582d2e67",
     "16257529781b844d78",
     "1661028223abed1282",
-    "1625752966582d2e67",
     "166109855761b764f5",
     "1659979808167f5952",
     "16508011074401ef45",
