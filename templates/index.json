@@ -254,7 +254,7 @@
       "settings": {
         "full_width": false,
         "title": "OUR LATEST PRODUCTS",
-        "collection": "new-arrivals",
+        "collection": "latest-products",
         "carousel": false,
         "grid": 4,
         "limit": 8,
