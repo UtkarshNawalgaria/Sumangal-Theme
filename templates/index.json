@@ -197,16 +197,16 @@
     "1661238395cdc53d25": {
       "type": "collection-list",
       "blocks": {
-        "16612383952e9a9005-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bridesmaid-essentials"
-          }
-        },
         "16612383952e9a9005-1": {
           "type": "featured_collection",
           "settings": {
             "collection": "wedding-wishes"
+          }
+        },
+        "16612383952e9a9005-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bridesmaid-essentials"
           }
         },
         "16612383952e9a9005-2": {
@@ -223,8 +223,8 @@
         }
       },
       "block_order": [
-        "16612383952e9a9005-0",
         "16612383952e9a9005-1",
+        "16612383952e9a9005-0",
         "16612383952e9a9005-2",
         "ffa59a92-4d3b-4dd2-ba7b-9a87696c1984"
       ],
