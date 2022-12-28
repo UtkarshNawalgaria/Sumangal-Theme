@@ -344,6 +344,48 @@
         "full_width": false,
         "section_padding": "both"
       }
+    },
+    "00d0a250-07b5-49c6-90fd-ea3f9db0ca08": {
+      "type": "collection-list",
+      "blocks": {
+        "template--15750141444286__00d0a250-07b5-49c6-90fd-ea3f9db0ca08-1672241070edd3cb17-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sarees-under-rs-10000"
+          }
+        },
+        "template--15750141444286__00d0a250-07b5-49c6-90fd-ea3f9db0ca08-1672241070edd3cb17-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "products-under-16000"
+          }
+        },
+        "template--15750141444286__00d0a250-07b5-49c6-90fd-ea3f9db0ca08-1672241070edd3cb17-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "products-under-21000"
+          }
+        },
+        "e394c4cb-35fc-48c4-acaf-b8fccab9312d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "products-under-31000"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750141444286__00d0a250-07b5-49c6-90fd-ea3f9db0ca08-1672241070edd3cb17-0",
+        "template--15750141444286__00d0a250-07b5-49c6-90fd-ea3f9db0ca08-1672241070edd3cb17-1",
+        "template--15750141444286__00d0a250-07b5-49c6-90fd-ea3f9db0ca08-1672241070edd3cb17-2",
+        "e394c4cb-35fc-48c4-acaf-b8fccab9312d"
+      ],
+      "settings": {
+        "full_width": false,
+        "title": "Shop by Price",
+        "grid": 3,
+        "color_scheme": "none",
+        "section_padding": "both"
+      }
     }
   },
   "order": [
@@ -356,6 +398,7 @@
     "166109855761b764f5",
     "1659979808167f5952",
     "16508011074401ef45",
-    "1655372716d878bc46"
+    "1655372716d878bc46",
+    "00d0a250-07b5-49c6-90fd-ea3f9db0ca08"
   ]
 }
