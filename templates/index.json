@@ -382,7 +382,7 @@
       "settings": {
         "full_width": false,
         "title": "Shop by Price",
-        "grid": 3,
+        "grid": 4,
         "color_scheme": "none",
         "section_padding": "both"
       }
