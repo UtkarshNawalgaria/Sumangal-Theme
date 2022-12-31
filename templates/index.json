@@ -382,7 +382,7 @@
     "1655372716d878bc46": {
       "type": "custom-liquid",
       "settings": {
-        "liquid": "<div class=\"reputon-testimonials-widget\" id=\"ec124240-ed57-11ec-8366-f1849a178eaa\" ><\/div>",
+        "liquid": "<div class=\"reputon-google-reviews-widget\" id=\"f57a79a0-88c6-11ed-a236-87bfd9bde956\" ><\/div>",
         "full_width": false,
         "section_padding": "both"
       }
