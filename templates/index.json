@@ -278,61 +278,6 @@
         ]
       }
     },
-    "166109855761b764f5": {
-      "type": "featured-collection",
-      "settings": {
-        "full_width": false,
-        "title": "SAREES UNDER Rs 10000",
-        "collection": "sarees-under-rs-10000",
-        "carousel": false,
-        "grid": 4,
-        "limit": 4,
-        "color_scheme": "none",
-        "section_padding": "both"
-      }
-    },
-    "1659979808167f5952": {
-      "type": "collection-list",
-      "blocks": {
-        "16599798084e955ab0-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "fabric-katan-silk"
-          }
-        },
-        "16599798084e955ab0-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "fabric-organza"
-          }
-        },
-        "16599798084e955ab0-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "fabric-tussar-silk"
-          }
-        },
-        "34adec02-2afa-41dd-8d6d-70b37b136657": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "fabric-cotton"
-          }
-        }
-      },
-      "block_order": [
-        "16599798084e955ab0-0",
-        "16599798084e955ab0-1",
-        "16599798084e955ab0-2",
-        "34adec02-2afa-41dd-8d6d-70b37b136657"
-      ],
-      "settings": {
-        "full_width": false,
-        "title": "SHOP BY FABRIC",
-        "grid": 4,
-        "color_scheme": "none",
-        "section_padding": "both"
-      }
-    },
     "16508011074401ef45": {
       "type": "apps",
       "blocks": {
@@ -370,8 +315,6 @@
     "1625752966582d2e67",
     "16257529781b844d78",
     "1661028223abed1282",
-    "166109855761b764f5",
-    "1659979808167f5952",
     "16508011074401ef45",
     "1655372716d878bc46"
   ]
