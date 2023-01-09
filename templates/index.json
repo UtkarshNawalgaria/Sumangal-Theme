@@ -278,34 +278,6 @@
         ]
       }
     },
-    "16508011074401ef45": {
-      "type": "apps",
-      "blocks": {
-        "c3402734-6b60-4d71-9fa6-4869f599f4a4": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
-          "settings": {
-            "heading_size": 24,
-            "feed_width": 100,
-            "html_area": ""
-          }
-        }
-      },
-      "block_order": [
-        "c3402734-6b60-4d71-9fa6-4869f599f4a4"
-      ],
-      "settings": {
-        "full_width": false,
-        "section_padding": "both"
-      }
-    },
-    "1655372716d878bc46": {
-      "type": "custom-liquid",
-      "settings": {
-        "liquid": "<div class=\"reputon-google-reviews-widget\" id=\"f57a79a0-88c6-11ed-a236-87bfd9bde956\" ><\/div>",
-        "full_width": false,
-        "section_padding": "both"
-      }
-    },
     "d0969478-b1ee-481c-a130-3ad1e8d35ae3": {
       "type": "collection-list",
       "blocks": {
@@ -342,9 +314,37 @@
       ],
       "settings": {
         "full_width": false,
-        "title": "Collection list",
+        "title": "Types of Sarees",
         "grid": 4,
         "color_scheme": "none",
+        "section_padding": "both"
+      }
+    },
+    "16508011074401ef45": {
+      "type": "apps",
+      "blocks": {
+        "c3402734-6b60-4d71-9fa6-4869f599f4a4": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 24,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "c3402734-6b60-4d71-9fa6-4869f599f4a4"
+      ],
+      "settings": {
+        "full_width": false,
+        "section_padding": "both"
+      }
+    },
+    "1655372716d878bc46": {
+      "type": "custom-liquid",
+      "settings": {
+        "liquid": "<div class=\"reputon-google-reviews-widget\" id=\"f57a79a0-88c6-11ed-a236-87bfd9bde956\" ><\/div>",
+        "full_width": false,
         "section_padding": "both"
       }
     }
@@ -357,8 +357,8 @@
     "1625752966582d2e67",
     "16257529781b844d78",
     "1661028223abed1282",
+    "d0969478-b1ee-481c-a130-3ad1e8d35ae3",
     "16508011074401ef45",
-    "1655372716d878bc46",
-    "d0969478-b1ee-481c-a130-3ad1e8d35ae3"
+    "1655372716d878bc46"
   ]
 }
