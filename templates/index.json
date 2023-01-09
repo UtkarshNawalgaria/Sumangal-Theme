@@ -305,6 +305,48 @@
         "full_width": false,
         "section_padding": "both"
       }
+    },
+    "d0969478-b1ee-481c-a130-3ad1e8d35ae3": {
+      "type": "collection-list",
+      "blocks": {
+        "template--15750141444286__d0969478-b1ee-481c-a130-3ad1e8d35ae3-167324706010e05237-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "banarasi-shikargah-sarees"
+          }
+        },
+        "template--15750141444286__d0969478-b1ee-481c-a130-3ad1e8d35ae3-167324706010e05237-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "banarasi-pashmina-sarees"
+          }
+        },
+        "template--15750141444286__d0969478-b1ee-481c-a130-3ad1e8d35ae3-167324706010e05237-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "banarasi-meenakari-sarees"
+          }
+        },
+        "b53189ab-3f29-4b35-be94-6ecf8024d257": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "banarasi-rankgat-sarees"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750141444286__d0969478-b1ee-481c-a130-3ad1e8d35ae3-167324706010e05237-0",
+        "template--15750141444286__d0969478-b1ee-481c-a130-3ad1e8d35ae3-167324706010e05237-1",
+        "template--15750141444286__d0969478-b1ee-481c-a130-3ad1e8d35ae3-167324706010e05237-2",
+        "b53189ab-3f29-4b35-be94-6ecf8024d257"
+      ],
+      "settings": {
+        "full_width": false,
+        "title": "Collection list",
+        "grid": 4,
+        "color_scheme": "none",
+        "section_padding": "both"
+      }
     }
   },
   "order": [
@@ -316,6 +358,7 @@
     "16257529781b844d78",
     "1661028223abed1282",
     "16508011074401ef45",
-    "1655372716d878bc46"
+    "1655372716d878bc46",
+    "d0969478-b1ee-481c-a130-3ad1e8d35ae3"
   ]
 }
